@@ -1,2 +1,0 @@
-files in this folder are filtered so that sentences with unnecessary genre-specific deprel tags are removed
-data sets still need to be balanced
