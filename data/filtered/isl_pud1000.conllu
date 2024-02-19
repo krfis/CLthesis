@@ -828,7 +828,6 @@
 24	flugfélagi	flugfélag	NOUN	nheþ	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing	21	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	4	punct	_	_
 
-# ??? Athuga rótina
 # sent_id = n01017008
 # text = „En það má vera að BA og IAG hafi leyst það og geti boðið eitthvað sem jaðrar við að vera áreiðanlegt.“
 # text_en = "But it may be that BA and IAG have cracked it and can offer something vaguely reliable."
@@ -2384,24 +2383,6 @@
 35	geðslags	geðslag	NOUN	nhee	Case=Gen|Definite=Ind|Gender=Neut|Number=Sing	31	conj	_	_
 36	hans	hann	PRON	fpkee	Case=Gen|Gender=Masc|Number=Sing|PronType=Prs	35	nmod:poss	_	SpaceAfter=No
 37	.	.	PUNCT	.	_	24	punct	_	_
-
-# sent_id = n01039018
-# text = Þetta er ekki það sem við þurfum í landinu okkar, gott fólk.
-# text_en = That's not what we need in our country, folks.
-1	Þetta	þessi	PRON	fahen	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
-2	er	vera	AUX	sfg3en	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-3	ekki	ekki	ADV	aa	_	4	advmod	_	_
-4	það	sá	PRON	fahen	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	_
-5	sem	sem	SCONJ	ct	_	7	mark	_	_
-6	við	ég	PRON	fp1fn	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
-7	þurfum	þurfa	VERB	sfg1fn	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
-8	í	í	ADP	aþ	_	9	case	_	_
-9	landinu	land	NOUN	nheþg	Case=Dat|Definite=Def|Gender=Neut|Number=Sing	7	obl	_	_
-10	okkar	ég	PRON	fp1fe	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	nmod:poss	_	SpaceAfter=No
-11	,	,	PUNCT	,	_	7	punct	_	_
-12	gott	góður	ADJ	lhensf	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	_
-13	fólk	fólk	NOUN	nhen	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	4	vocative	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	4	punct	_	_
 
 # sent_id = n01039039
 # text = Eiginkona Trump, Melania Trump, kom í fyrsta sinn fram í kosningabaráttunni síðan á flokksþingi repúblíkana í júlí.
@@ -10385,7 +10366,6 @@
 7	Sheppard	Sheppard	PROPN	nheo-s	Case=Acc|Gender=Neut|Number=Sing	4	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	4	punct	_	_
 
-# Checktree: relation 31st following email-enronsent13_01-0054
 # newdoc id = n04005
 # sent_id = n04005003
 # text = Ríkið býður þeim sem hafa náð lögaldri 500 evrur, sem þarf að eyða ekki síðar en 31. desember 2017.
@@ -10760,7 +10740,6 @@
 13	félagsins	félag	NOUN	nheeg	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	11	nmod:poss	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
-# Checktree: 1, 18, 19, 20
 # sent_id = n04010016
 # text = Sífellt fleiri tæknifyrirtæki ráða ferðinni sem aldrei fyrr á Wall Street, í jafnvel enn meiri mæli en í Kísildal.
 # text_en = More and more tech companies are calling the shots more than ever before on Wall Street, even more than in Silicon Valley.
@@ -10806,7 +10785,6 @@
 15	ExxonMobil	ExxonMobil	PROPN	e	_	12	obl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	3	punct	_	_
 
-# Checktree: in addition to -> fixed?
 # sent_id = n04010021
 # text = Stjórnendur fyrirtækja á borð við Spotify, Tesla, Uber og Snapchat sækja einkaviðburð auk Mountain View ráðstefnunnar.
 # text_en = Leaders of companies such as Spotify, Tesla, Uber and Snapchat will attend a private event in addition to the Mountain View Summit.
@@ -10862,7 +10840,6 @@
 26	framfarasinnuðustu	framfarasinnuðusta	NOUN	nveþ	Case=Dat|Definite=Ind|Gender=Fem|Number=Sing	24	nmod:poss	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	9	punct	_	_
 
-# Checktree: Ellipsis
 # sent_id = n05001008
 # text = Durán er talsmaður og Ángel Pintado er gjaldkeri.
 # text_en = Durán acts as spokesman and Ángel Pintado as treasurer.
@@ -23024,7 +23001,6 @@
 19	hernum	her	NOUN	nkeþg	Case=Dat|Definite=Def|Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	.	_	2	punct	_	_
 
-# Checktree: how to represet "to record what would be another remarkable success"
 # newdoc id = w05009
 # sent_id = w05009044
 # text = Árið 1976 tók hann höndum saman við vinkonu sína, Kiki Dee, sem vann hjá plötufyrirtækinu The Rocket Record Company, og hljóðritaði enn eitt lagið sem átti eftir að slá rækilega í gegn: „Don't Go Breaking My Heart“.
