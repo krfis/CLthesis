@@ -9,7 +9,7 @@
                 "task_type" : "seq",
                 "column_idx" : 3,
                 "metric" : "accuracy",
-                "additional_metrics" : ["f1_micro", "f1_macro", "f1_binary"]
+                "additional_metrics" : ["f1_micro", "f1_macro"]
             },
 
             "dependency" : {
