@@ -3,7 +3,7 @@
         "train_data_path" : "/content/machamp/data/pilot/train-isl-60k.conllu",
         "dev_data_path" : "/content/machamp/data/pilot/dev-isl-6k.conllu",
         "word_idx" : 1,
-        "transformer_model" : "FacebookAI/xlm-roberta-base",
+        //"transformer_model" : "FacebookAI/xlm-roberta-base",
         "tasks" : {
             "upos" : {
                 "task_type" : "seq",
