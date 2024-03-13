@@ -1,0 +1,1320 @@
+# source = LassyDevelop/wiki-3781/wiki-3781.p.17.s.1.xml
+# sent_id = wiki-3781.p.17.s.1
+# text = Externe link
+# auto = ALUD2.8.5
+1	Externe	extern	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	2	amod	2:amod	_
+2	link	link	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
+
+# source = LassyDevelop/WR-P-P-H-0000000026/WR-P-P-H-0000000026.p.1.s.2.xml
+# sent_id = WR-P-P-H-0000000026\WR-P-P-H-0000000026.p.1.s.2
+# text = Het Britse amusementsconcern Gullane koopt Guinness World Records (GWR) van het drankenconcern Diageo voor 45,5 miljoen pond (circa 164 miljoen gulden).
+# auto = ALUD2.8.5
+1	Het	het	DET	LID|bep|stan|evon	Definite=Def	3	det	3:det	_
+2	Britse	Brits	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	3	amod	3:amod	_
+3	amusementsconcern	amusement_concern	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	5	nsubj	5:nsubj	_
+4	Gullane	Gullane	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	appos	3:appos	_
+5	koopt	kopen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	Guinness	Guinness	PROPN	SPEC|deeleigen	_	5	obj	5:obj	_
+7	World	World	PROPN	SPEC|deeleigen	_	6	flat	6:flat	_
+8	Records	Records	PROPN	SPEC|deeleigen	_	6	flat	6:flat	_
+9	(	(	PUNCT	LET	_	10	punct	10:punct	SpaceAfter=No
+10	GWR	GWR	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	nmod	6:nmod	SpaceAfter=No
+11	)	)	PUNCT	LET	_	10	punct	10:punct	_
+12	van	van	ADP	VZ|init	_	14	case	14:case	_
+13	het	het	DET	LID|bep|stan|evon	Definite=Def	14	det	14:det	_
+14	drankenconcern	drank_concern	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	5	obl	5:obl:van	_
+15	Diageo	Diageo	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	14	appos	14:appos	_
+16	voor	voor	ADP	VZ|init	_	18	case	18:case	_
+17	45,5	45,5	NUM	TW|hoofd|prenom|stan	_	18	nummod	18:nummod	_
+18	miljoen	miljoen	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	5	obl	5:obl:voor	_
+19	pond	pond	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	18	nmod	18:nmod	_
+20	(	(	PUNCT	LET	_	23	punct	23:punct	SpaceAfter=No
+21	circa	circa	ADV	BW	_	23	amod	23:amod	_
+22	164	164	NUM	TW|hoofd|prenom|stan	_	23	nummod	23:nummod	_
+23	miljoen	miljoen	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	18	nmod	18:nmod	_
+24	gulden	gulden	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	23	nmod	23:nmod	SpaceAfter=No
+25	)	)	PUNCT	LET	_	23	punct	23:punct	SpaceAfter=No
+26	.	.	PUNCT	LET	_	5	punct	5:punct	_
+
+# source = LassyDevelop/wiki-832/wiki-832.p.20.s.10.xml
+# sent_id = wiki-832.p.20.s.10
+# text = "De oestereetster" werd trouwens 20 jaar later aangekocht door het Museum voor Schone Kunsten te Antwerpen, op het Triënnale Salon van 1904.
+# auto = ALUD2.8.5
+1	"	"	PUNCT	LET	_	2	punct	2:punct	SpaceAfter=No
+2	De	de	DET	LID|bep|stan|rest	Definite=Def	10	nsubj:pass	10:nsubj:pass	_
+3	oestereetster	oester_eetster	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	fixed	2:fixed	SpaceAfter=No
+4	"	"	PUNCT	LET	_	2	punct	2:punct	_
+5	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	10	aux:pass	10:aux:pass	_
+6	trouwens	trouwens	ADV	BW	_	10	advmod	10:advmod	_
+7	20	20	NUM	TW|hoofd|prenom|stan	_	8	nummod	8:nummod	_
+8	jaar	jaar	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	9	obl	9:obl	_
+9	later	laat	ADJ	ADJ|vrij|comp|zonder	Degree=Cmp	10	obl	10:obl	_
+10	aangekocht	aan_kopen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
+11	door	door	ADP	VZ|init	_	13	case	13:case	_
+12	het	het	DET	LID|bep|stan|evon	Definite=Def	13	det	13:det	_
+13	Museum	Museum	PROPN	SPEC|deeleigen	_	10	obl:agent	10:obl:agent	_
+14	voor	voor	PROPN	SPEC|deeleigen	_	13	flat	13:flat	_
+15	Schone	Schone	PROPN	SPEC|deeleigen	_	13	flat	13:flat	_
+16	Kunsten	Kunsten	PROPN	SPEC|deeleigen	_	13	flat	13:flat	_
+17	te	te	ADP	VZ|init	_	18	case	18:case	_
+18	Antwerpen	Antwerpen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	13	nmod	13:nmod:te	SpaceAfter=No
+19	,	,	PUNCT	LET	_	22	punct	22:punct	_
+20	op	op	ADP	VZ|init	_	22	case	22:case	_
+21	het	het	DET	LID|bep|stan|evon	Definite=Def	22	det	22:det	_
+22	Triënnale	triënnale	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	10	obl	10:obl:op	_
+23	Salon	salon	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	22	fixed	22:fixed	_
+24	van	van	ADP	VZ|init	_	25	case	25:case	_
+25	1904	1904	NUM	TW|hoofd|vrij	_	22	nmod	22:nmod:van	SpaceAfter=No
+26	.	.	PUNCT	LET	_	10	punct	10:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000030/WR-P-P-H-0000000030.p.1.s.7.xml
+# sent_id = WR-P-P-H-0000000030\WR-P-P-H-0000000030.p.1.s.7
+# text = Hoeveel transacties hierdoor mislukten, weet Interpay niet.
+# auto = ALUD2.8.5
+1	Hoeveel	hoeveel	NUM	TW|hoofd|prenom|stan	_	2	nummod	2:nummod	_
+2	transacties	transactie	NOUN	N|soort|mv|basis	Number=Plur	4	nsubj	4:nsubj	_
+3	hierdoor	hierdoor	ADV	BW	_	4	advmod	4:advmod	_
+4	mislukten	mislukken	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	6	ccomp	6:ccomp	SpaceAfter=No
+5	,	,	PUNCT	LET	_	4	punct	4:punct	_
+6	weet	weten	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+7	Interpay	Interpay	PROPN	N|eigen|ev|basis|genus|stan	Gender=Com,Neut|Number=Sing	6	nsubj	6:nsubj	_
+8	niet	niet	ADV	BW	_	6	advmod	6:advmod	SpaceAfter=No
+9	.	.	PUNCT	LET	_	6	punct	6:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000067/WR-P-P-H-0000000067.p.1.s.4.xml
+# sent_id = WR-P-P-H-0000000067\WR-P-P-H-0000000067.p.1.s.4
+# text = Het resultaat zal overigens niet officieel in de boeken komen.
+# auto = ALUD2.8.5
+1	Het	het	DET	LID|bep|stan|evon	Definite=Def	2	det	2:det	_
+2	resultaat	resultaat	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	10	nsubj	10:nsubj	_
+3	zal	zullen	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux	10:aux	_
+4	overigens	overigens	ADV	BW	_	10	advmod	10:advmod	_
+5	niet	niet	ADV	BW	_	10	advmod	10:advmod	_
+6	officieel	officieel	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	10	advmod	10:advmod	_
+7	in	in	ADP	VZ|init	_	9	case	9:case	_
+8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
+9	boeken	boek	NOUN	N|soort|mv|basis	Number=Plur	10	obl	10:obl:in	_
+10	komen	komen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	0	root	0:root	SpaceAfter=No
+11	.	.	PUNCT	LET	_	10	punct	10:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000093/WR-P-P-H-0000000093.p.3.s.3.xml
+# sent_id = WR-P-P-H-0000000093\WR-P-P-H-0000000093.p.3.s.3
+# text = De technische recherche onderzoekt de zaak.
+# auto = ALUD2.8.5
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	3	det	3:det	_
+2	technische	technisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	3	amod	3:amod	_
+3	recherche	recherche	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nsubj	4:nsubj	_
+4	onderzoekt	onderzoeken	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	de	de	DET	LID|bep|stan|rest	Definite=Def	6	det	6:det	_
+6	zaak	zaak	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obj	4:obj	SpaceAfter=No
+7	.	.	PUNCT	LET	_	4	punct	4:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000035/WR-P-P-H-0000000035.p.6.s.2.xml
+# sent_id = WR-P-P-H-0000000035\WR-P-P-H-0000000035.p.6.s.2
+# text = Eigenlijk viel het idee voor de blauwdruk al te beluisteren bij de nabeschouwing van de Olympische Spelen.
+# auto = ALUD2.8.5
+1	Eigenlijk	eigenlijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	10	advmod	10:advmod	_
+2	viel	vallen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	het	het	DET	LID|bep|stan|evon	Definite=Def	4	det	4:det	_
+4	idee	idee	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	nsubj	2:nsubj	_
+5	voor	voor	ADP	VZ|init	_	7	case	7:case	_
+6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
+7	blauwdruk	blauwdruk	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nmod	4:nmod:voor	_
+8	al	al	ADV	BW	_	10	advmod	10:advmod	_
+9	te	te	ADP	VZ|init	_	10	mark	10:mark	_
+10	beluisteren	beluisteren	VERB	WW|inf|vrij|zonder	VerbForm=Inf	2	ccomp	2:ccomp	_
+11	bij	bij	ADP	VZ|init	_	13	case	13:case	_
+12	de	de	DET	LID|bep|stan|rest	Definite=Def	13	det	13:det	_
+13	nabeschouwing	na_beschouwing	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	obl	10:obl:bij	_
+14	van	van	ADP	VZ|init	_	16	case	16:case	_
+15	de	de	DET	LID|bep|stan|rest	Definite=Def	16	det	16:det	_
+16	Olympische	Olympische	PROPN	SPEC|deeleigen	_	13	nmod	13:nmod:van	_
+17	Spelen	Spelen	PROPN	SPEC|deeleigen	_	16	flat	16:flat	SpaceAfter=No
+18	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000047/WR-P-P-H-0000000047.p.4.s.8.xml
+# sent_id = WR-P-P-H-0000000047\WR-P-P-H-0000000047.p.4.s.8
+# text = ,, We komen wel tekort, maar ik had nu een betere start in elk geval en had in de slotfase een aanval gepland op Ukawa, de nummer acht.
+# auto = ALUD2.8.5
+1	,,	,,	PUNCT	LET	_	3	punct	3:punct	_
+2	We	we	PRON	VNW|pers|pron|nomin|red|1|mv	Case=Nom|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+3	komen	tekort_komen	VERB	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	wel	wel	ADV	BW	_	3	advmod	3:advmod	_
+5	tekort	tekort	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	compound:prt	3:compound:prt	SpaceAfter=No
+6	,	,	PUNCT	LET	_	9	punct	9:punct	_
+7	maar	maar	CCONJ	VG|neven	_	9	cc	9:cc	_
+8	ik	ik	PRON	VNW|pers|pron|nomin|vol|1|ev	Case=Nom|Person=1|PronType=Prs	9	nsubj	9:nsubj	_
+9	had	hebben	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	3	conj	3:conj:maar	_
+10	nu	nu	ADV	BW	_	9	advmod	9:advmod	_
+11	een	een	DET	LID|onbep|stan|agr	Definite=Ind	13	det	13:det	_
+12	betere	goed	ADJ	ADJ|prenom|comp|met-e|stan	Degree=Cmp	13	amod	13:amod	_
+13	start	start	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	obj	9:obj	_
+14	in	in	ADP	VZ|init	_	16	case	16:case	_
+15	elk	elk	DET	VNW|onbep|det|stan|prenom|zonder|evon	_	16	det	16:det	_
+16	geval	geval	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	9	obl	9:obl:in	_
+17	en	en	CCONJ	VG|neven	_	24	cc	24:cc	_
+18	had	hebben	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	24	aux	24:aux	_
+19	in	in	ADP	VZ|init	_	21	case	21:case	_
+20	de	de	DET	LID|bep|stan|rest	Definite=Def	21	det	21:det	_
+21	slotfase	slot_fase	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	24	obl	24:obl:in	_
+22	een	een	DET	LID|onbep|stan|agr	Definite=Ind	23	det	23:det	_
+23	aanval	aanval	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	24	obj	24:obj	_
+24	gepland	plannen	VERB	WW|vd|vrij|zonder	VerbForm=Part	9	conj	9:conj:en	_
+25	op	op	ADP	VZ|init	_	26	case	26:case	_
+26	Ukawa	Ukawa	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	23	nmod	23:nmod:op	SpaceAfter=No
+27	,	,	PUNCT	LET	_	29	punct	29:punct	_
+28	de	de	DET	LID|bep|stan|rest	Definite=Def	29	det	29:det	_
+29	nummer	nummer	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	26	appos	26:appos	_
+30	acht	acht	NUM	TW|hoofd|vrij	_	29	appos	29:appos	SpaceAfter=No
+31	.	.	PUNCT	LET	_	3	punct	3:punct	_
+
+# source = LassyDevelop/wiki-5716/wiki-5716.p.3.s.2.xml
+# sent_id = wiki-5716.p.3.s.2
+# text = De lengte bedraagt 857 km en het stroomgebied 76.000 km².
+# auto = ALUD2.8.5
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
+2	lengte	lengte	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nsubj	3:nsubj	_
+3	bedraagt	bedragen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	857	857	NUM	TW|hoofd|prenom|stan	_	5	nummod	5:nummod	_
+5	km	km	SYM	SPEC|symb	_	3	obl	3:obl	_
+6	en	en	CCONJ	VG|neven	_	8	cc	6.1:cc	_
+6.1	bedraagt	bedragen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	_	_	3:conj:en	CopiedFrom=3
+7	het	het	DET	LID|bep|stan|evon	Definite=Def	8	det	8:det	_
+8	stroomgebied	stroom_gebied	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	conj	6.1:nsubj	_
+9	76.000	76.000	NUM	TW|hoofd|prenom|stan	_	10	nummod	10:nummod	_
+10	km²	km²	SYM	SPEC|symb	_	3	orphan	6.1:obl	SpaceAfter=No
+11	.	.	PUNCT	LET	_	3	punct	3:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000020/WR-P-P-H-0000000020.p.3.s.5.xml
+# sent_id = WR-P-P-H-0000000020\WR-P-P-H-0000000020.p.3.s.5
+# text = Als dan de tweede valt, is het heel moeilijk de derde erop te houden. ''
+# auto = ALUD2.8.5
+1	Als	als	SCONJ	VG|onder	_	5	mark	5:mark	_
+2	dan	dan	ADV	BW	_	5	advmod	5:advmod	_
+3	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+4	tweede	twee	ADJ	TW|rang|nom|zonder-n	_	5	nsubj	5:nsubj	_
+5	valt	vallen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	10	advcl	10:advcl:als	SpaceAfter=No
+6	,	,	PUNCT	LET	_	5	punct	5:punct	_
+7	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
+8	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	10	expl	10:expl	_
+9	heel	heel	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	10	advmod	10:advmod	_
+10	moeilijk	moeilijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	0:root	_
+11	de	de	DET	LID|bep|stan|rest	Definite=Def	12	det	12:det	_
+12	derde	drie	ADJ	TW|rang|nom|zonder-n	_	15	obj	15:obj	_
+13	erop	erop	ADV	BW	_	15	advmod	15:advmod	_
+14	te	te	ADP	VZ|init	_	15	mark	15:mark	_
+15	houden	houden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	10	csubj	10:csubj	SpaceAfter=No
+16	.	.	PUNCT	LET	_	10	punct	10:punct	_
+17	''	''	PUNCT	LET	_	10	punct	10:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000020/WR-P-P-H-0000000020.p.2.s.1.xml
+# sent_id = WR-P-P-H-0000000020\WR-P-P-H-0000000020.p.2.s.1
+# text = In nog geen dertig seconden verspeelde springruiter Wout-Jan van der Schans gistermiddag de Europese titel die lonkend op hem lag te wachten.
+# auto = ALUD2.8.5
+1	In	in	ADP	VZ|init	_	5	case	5:case	_
+2	nog	nog	ADV	BW	_	4	amod	4:amod	_
+3	geen	geen	PRON	VNW|onbep|det|stan|prenom|zonder|agr	PronType=Ind	2	fixed	2:fixed	_
+4	dertig	dertig	NUM	TW|hoofd|prenom|stan	_	5	nummod	5:nummod	_
+5	seconden	seconde	NOUN	N|soort|mv|basis	Number=Plur	6	obl	6:obl:in	_
+6	verspeelde	verspelen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+7	springruiter	springruiter	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	nsubj	6:nsubj	_
+8	Wout-Jan	Wout-Jan	PROPN	SPEC|deeleigen	_	7	appos	7:appos	_
+9	van	van	PROPN	SPEC|deeleigen	_	8	flat	8:flat	_
+10	der	der	PROPN	SPEC|deeleigen	_	8	flat	8:flat	_
+11	Schans	Schans	PROPN	SPEC|deeleigen	_	8	flat	8:flat	_
+12	gistermiddag	gistermiddag	ADV	BW	_	6	advmod	6:advmod	_
+13	de	de	DET	LID|bep|stan|rest	Definite=Def	15	det	15:det	_
+14	Europese	Europees	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	15	amod	15:amod	_
+15	titel	titel	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	obj	6:obj|20:nsubj|22:nsubj:xsubj	_
+16	die	die	PRON	VNW|betr|pron|stan|vol|persoon|getal	PronType=Rel	20	nsubj	15:ref	_
+17	lonkend	lonken	VERB	WW|od|vrij|zonder	VerbForm=Part	20	advcl	20:advcl	_
+18	op	op	ADP	VZ|init	_	19	case	19:case	_
+19	hem	hem	PRON	VNW|pers|pron|obl|vol|3|ev|masc	Case=Acc|Person=3|PronType=Prs	22	obl	22:obl:op	_
+20	lag	liggen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	15	acl:relcl	15:acl:relcl	_
+21	te	te	ADP	VZ|init	_	22	mark	22:mark	_
+22	wachten	wachten	VERB	WW|inf|vrij|zonder	VerbForm=Inf	20	xcomp	20:xcomp	SpaceAfter=No
+23	.	.	PUNCT	LET	_	6	punct	6:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000004/WR-P-P-H-0000000004.p.1.s.4.xml
+# sent_id = WR-P-P-H-0000000004\WR-P-P-H-0000000004.p.1.s.4
+# text = In de tweede race eindigde de olympische kandidate als tweede.
+# auto = ALUD2.8.5
+1	In	in	ADP	VZ|init	_	4	case	4:case	_
+2	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+3	tweede	twee	ADJ	TW|rang|prenom|stan	_	4	amod	4:amod	_
+4	race	race	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	obl	5:obl:in	_
+5	eindigde	eindigen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	de	de	DET	LID|bep|stan|rest	Definite=Def	8	det	8:det	_
+7	olympische	Olympisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	8	amod	8:amod	_
+8	kandidate	kandidate	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nsubj	5:nsubj	_
+9	als	als	SCONJ	VG|onder	_	10	mark	10:mark	_
+10	tweede	twee	ADJ	TW|rang|nom|zonder-n	_	5	advcl	5:advcl:als	SpaceAfter=No
+11	.	.	PUNCT	LET	_	5	punct	5:punct	_
+
+# source = LassyDevelop/wiki-1820/wiki-1820.p.2.s.1.xml
+# sent_id = wiki-1820.p.2.s.1
+# text = Het Vlaams Gewest is een deel van België, met als hoofdstad Brussel.
+# auto = ALUD2.8.5
+1	Het	het	DET	LID|bep|stan|evon	Definite=Def	2	det	2:det	_
+2	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	6	nsubj	6:nsubj	_
+3	Gewest	Gewest	PROPN	SPEC|deeleigen	_	2	flat	2:flat	_
+4	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	een	een	DET	LID|onbep|stan|agr	Definite=Ind	6	det	6:det	_
+6	deel	deel	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	0	root	0:root	_
+7	van	van	ADP	VZ|init	_	8	case	8:case	_
+8	België	België	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	6	nmod	6:nmod:van	SpaceAfter=No
+9	,	,	PUNCT	LET	_	12	punct	12:punct	_
+10	met	met	ADP	VZ|init	_	12	mark	12:mark	_
+11	als	als	SCONJ	VG|onder	_	12	mark	12:mark	_
+12	hoofdstad	hoofdstad	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	acl	6:acl:met	_
+13	Brussel	Brussel	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	12	nsubj	12:nsubj	SpaceAfter=No
+14	.	.	PUNCT	LET	_	6	punct	6:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000021/WR-P-P-H-0000000021.p.1.s.4.xml
+# sent_id = WR-P-P-H-0000000021\WR-P-P-H-0000000021.p.1.s.4
+# text = Hij leed al jaren aan kanker.
+# auto = ALUD2.8.5
+1	Hij	hij	PRON	VNW|pers|pron|nomin|vol|3|ev|masc	Case=Nom|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	leed	lijden	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	al	al	ADV	BW	_	4	advmod	4:advmod	_
+4	jaren	jaar	NOUN	N|soort|mv|basis	Number=Plur	2	obl	2:obl	_
+5	aan	aan	ADP	VZ|init	_	6	case	6:case	_
+6	kanker	kanker	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	obl	2:obl:aan	SpaceAfter=No
+7	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000063/WR-P-P-H-0000000063.p.1.s.4.xml
+# sent_id = WR-P-P-H-0000000063\WR-P-P-H-0000000063.p.1.s.4
+# text = Al na zes minuten vuurde Denneboom een voltreffer af.
+# auto = ALUD2.8.5
+1	Al	al	ADV	BW	_	4	amod	4:amod	_
+2	na	na	ADP	VZ|init	_	4	case	4:case	_
+3	zes	zes	NUM	TW|hoofd|prenom|stan	_	4	nummod	4:nummod	_
+4	minuten	minuut	NOUN	N|soort|mv|basis	Number=Plur	5	obl	5:obl:na	_
+5	vuurde	af_vuren	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	Denneboom	Denneboom	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nsubj	5:nsubj	_
+7	een	een	DET	LID|onbep|stan|agr	Definite=Ind	8	det	8:det	_
+8	voltreffer	vol_treffer	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	obj	5:obj	_
+9	af	af	ADP	VZ|fin	_	5	compound:prt	5:compound:prt	SpaceAfter=No
+10	.	.	PUNCT	LET	_	5	punct	5:punct	_
+
+# source = LassyDevelop/wiki-3866/wiki-3866.p.8.s.1.xml
+# sent_id = wiki-3866.p.8.s.1
+# text = 19e eeuw
+# auto = ALUD2.8.5
+1	19e	19	ADJ	TW|rang|prenom|stan	_	2	amod	2:amod	_
+2	eeuw	eeuw	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
+
+# source = LassyDevelop/wiki-832/wiki-832.p.40.s.1.xml
+# sent_id = wiki-832.p.40.s.1
+# text = In december van dat jaar en aangezet door Eugène Demolder, organiseerde hij zijn eerste eigen tentoonstelling in de « Comptoir des Arts Industriels La Royale » te Brussel.
+# auto = ALUD2.8.5
+1	In	in	ADP	VZ|init	_	2	case	2:case	_
+2	december	december	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	12	obl	12:obl:in	_
+3	van	van	ADP	VZ|init	_	5	case	5:case	_
+4	dat	dat	DET	VNW|aanw|det|stan|prenom|zonder|evon	_	5	det	5:det	_
+5	jaar	jaar	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	nmod	2:nmod:van	_
+6	en	en	CCONJ	VG|neven	_	7	cc	7:cc	_
+7	aangezet	aan_zetten	VERB	WW|vd|vrij|zonder	VerbForm=Part	2	conj	2:conj:en|12:obl:in	_
+8	door	door	ADP	VZ|init	_	9	case	9:case	_
+9	Eugène	Eugène	PROPN	SPEC|deeleigen	_	7	obl	7:obl:door	_
+10	Demolder	Demolder	PROPN	SPEC|deeleigen	_	9	flat	9:flat	SpaceAfter=No
+11	,	,	PUNCT	LET	_	2	punct	2:punct	_
+12	organiseerde	organiseren	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+13	hij	hij	PRON	VNW|pers|pron|nomin|vol|3|ev|masc	Case=Nom|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+14	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	17:nmod:poss	_
+15	eerste	één	ADJ	TW|rang|prenom|stan	_	17	amod	17:amod	_
+16	eigen	eigen	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	17	amod	17:amod	_
+17	tentoonstelling	tentoonstelling	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	12	obj	12:obj	_
+18	in	in	ADP	VZ|init	_	21	case	21:case	_
+19	de	de	DET	LID|bep|stan|rest	Definite=Def	21	det	21:det	_
+20	«	«	PUNCT	LET	_	21	punct	21:punct	_
+21	Comptoir	Comptoir	PROPN	SPEC|deeleigen	_	17	nmod	17:nmod:in	_
+22	des	des	PROPN	SPEC|deeleigen	_	21	flat	21:flat	_
+23	Arts	Arts	PROPN	SPEC|deeleigen	_	21	flat	21:flat	_
+24	Industriels	Industriels	PROPN	SPEC|deeleigen	_	21	flat	21:flat	_
+25	La	La	PROPN	SPEC|deeleigen	_	21	flat	21:flat	_
+26	Royale	Royale	PROPN	SPEC|deeleigen	_	21	flat	21:flat	_
+27	»	»	PUNCT	LET	_	21	punct	21:punct	_
+28	te	te	ADP	VZ|init	_	29	case	29:case	_
+29	Brussel	Brussel	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	21	nmod	21:nmod:te	SpaceAfter=No
+30	.	.	PUNCT	LET	_	12	punct	12:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000007/WR-P-P-H-0000000007.p.1.s.5.xml
+# sent_id = WR-P-P-H-0000000007\WR-P-P-H-0000000007.p.1.s.5
+# text = Voor de toenmalige NTS werkte ze ook als de eerste omroepster.
+# auto = ALUD2.8.5
+1	Voor	voor	ADP	VZ|init	_	4	case	4:case	_
+2	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+3	toenmalige	toenmalig	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	4	amod	4:amod	_
+4	NTS	NTS	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	obl	5:obl:voor	_
+5	werkte	werken	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	ze	ze	PRON	VNW|pers|pron|stan|red|3|ev|fem	Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+7	ook	ook	ADV	BW	_	5	advmod	5:advmod	_
+8	als	als	SCONJ	VG|onder	_	11	mark	11:mark	_
+9	de	de	DET	LID|bep|stan|rest	Definite=Def	11	det	11:det	_
+10	eerste	één	ADJ	TW|rang|prenom|stan	_	11	amod	11:amod	_
+11	omroepster	omroepster	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	advcl	5:advcl:als	SpaceAfter=No
+12	.	.	PUNCT	LET	_	5	punct	5:punct	_
+
+# source = LassyDevelop/wiki-5107/wiki-5107.p.3.s.1.xml
+# sent_id = wiki-5107.p.3.s.1
+# text = Geschiedenis
+# auto = ALUD2.8.5
+1	Geschiedenis	geschiedenis	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
+
+# source = LassyDevelop/wiki-832/wiki-832.p.1.s.1.xml
+# sent_id = wiki-832.p.1.s.1
+# text = James Ensor
+# auto = ALUD2.8.5
+1	James	James	PROPN	SPEC|deeleigen	_	0	root	0:root	_
+2	Ensor	Ensor	PROPN	SPEC|deeleigen	_	1	flat	1:flat	_
+
+# source = LassyDevelop/wiki-3781/wiki-3781.p.15.s.1.xml
+# sent_id = wiki-3781.p.15.s.1
+# text = Het dagelijks bestuur is in handen van de bestendige deputatie.
+# auto = ALUD2.8.5
+1	Het	het	DET	LID|bep|stan|evon	Definite=Def	3	det	3:det	_
+2	dagelijks	dagelijks	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	3	amod	3:amod	_
+3	bestuur	bestuur	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	6	nsubj	6:nsubj	_
+4	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+5	in	in	ADP	VZ|init	_	6	case	6:case	_
+6	handen	hand	NOUN	N|soort|mv|basis	Number=Plur	0	root	0:root	_
+7	van	van	ADP	VZ|init	_	10	case	10:case	_
+8	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_
+9	bestendige	bestendig	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	10	amod	10:amod	_
+10	deputatie	deputatie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	obl	6:obl:van	SpaceAfter=No
+11	.	.	PUNCT	LET	_	6	punct	6:punct	_
+
+# source = LassyDevelop/wiki-832/wiki-832.p.5.s.1.xml
+# sent_id = wiki-832.p.5.s.1
+# text = De vader van Ensor, James Frederic Ensor, was de zoon van Britse ouders.
+# auto = ALUD2.8.5
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
+2	vader	vader	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	12	nsubj	12:nsubj	_
+3	van	van	ADP	VZ|init	_	4	case	4:case	_
+4	Ensor	Ensor	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nmod	2:nmod:van	SpaceAfter=No
+5	,	,	PUNCT	LET	_	6	punct	6:punct	_
+6	James	James	PROPN	SPEC|deeleigen	_	2	appos	2:appos	_
+7	Frederic	Frederic	PROPN	SPEC|deeleigen	_	6	flat	6:flat	_
+8	Ensor	Ensor	PROPN	SPEC|deeleigen	_	6	flat	6:flat	SpaceAfter=No
+9	,	,	PUNCT	LET	_	2	punct	2:punct	_
+10	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	12	cop	12:cop	_
+11	de	de	DET	LID|bep|stan|rest	Definite=Def	12	det	12:det	_
+12	zoon	zoon	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
+13	van	van	ADP	VZ|init	_	15	case	15:case	_
+14	Britse	Brits	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	15	amod	15:amod	_
+15	ouders	ouder	NOUN	N|soort|mv|basis	Number=Plur	12	nmod	12:nmod:van	SpaceAfter=No
+16	.	.	PUNCT	LET	_	12	punct	12:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000020/WR-P-P-H-0000000020.p.3.s.4.xml
+# sent_id = WR-P-P-H-0000000020\WR-P-P-H-0000000020.p.3.s.4
+# text = Na de eerste sprong was het moeilijk hem op zijn achterbenen te houden.
+# auto = ALUD2.8.5
+1	Na	na	ADP	VZ|init	_	4	case	4:case	_
+2	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+3	eerste	één	ADJ	TW|rang|prenom|stan	_	4	amod	4:amod	_
+4	sprong	sprong	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	obl	7:obl:na	_
+5	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
+6	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	7	expl	7:expl	_
+7	moeilijk	moeilijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	0:root	_
+8	hem	hem	PRON	VNW|pers|pron|obl|vol|3|ev|masc	Case=Acc|Person=3|PronType=Prs	13	obj	13:obj	_
+9	op	op	ADP	VZ|init	_	11	case	11:case	_
+10	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+11	achterbenen	achter_been	NOUN	N|soort|mv|basis	Number=Plur	13	obl	13:obl:op	_
+12	te	te	ADP	VZ|init	_	13	mark	13:mark	_
+13	houden	houden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	7	csubj	7:csubj	SpaceAfter=No
+14	.	.	PUNCT	LET	_	7	punct	7:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000101/WR-P-P-H-0000000101.p.1.s.3.xml
+# sent_id = WR-P-P-H-0000000101\WR-P-P-H-0000000101.p.1.s.3
+# text = Het gaat om een aantal ruiters en publiek die in de openlucht aan de rand van de ring stonden.
+# auto = ALUD2.8.5
+1	Het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	gaat	gaan	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	om	om	ADP	VZ|init	_	5	case	5:case	_
+4	een	een	DET	LID|onbep|stan|agr	Definite=Ind	5	det	5:det	_
+5	aantal	aantal	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	obl	2:obl:om	_
+6	ruiters	ruiter	NOUN	N|soort|mv|basis	Number=Plur	5	nmod	5:nmod|19:nsubj	_
+7	en	en	CCONJ	VG|neven	_	8	cc	8:cc	_
+8	publiek	publiek	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	6	conj	5:nmod|6:conj:en	_
+9	die	die	PRON	VNW|betr|pron|stan|vol|persoon|getal	PronType=Rel	19	nsubj	6:ref	_
+10	in	in	ADP	VZ|init	_	12	case	12:case	_
+11	de	de	DET	LID|bep|stan|rest	Definite=Def	12	det	12:det	_
+12	openlucht	openlucht	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	19	obl	19:obl:in	_
+13	aan	aan	ADP	VZ|init	_	15	case	15:case	_
+14	de	de	DET	LID|bep|stan|rest	Definite=Def	15	det	15:det	_
+15	rand	rand	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	19	obl	19:obl:aan	_
+16	van	van	ADP	VZ|init	_	18	case	18:case	_
+17	de	de	DET	LID|bep|stan|rest	Definite=Def	18	det	18:det	_
+18	ring	ring	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	15	nmod	15:nmod:van	_
+19	stonden	staan	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	6	acl:relcl	6:acl:relcl	SpaceAfter=No
+20	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/wiki-6983/wiki-6983.p.13.s.7.xml
+# sent_id = wiki-6983.p.13.s.7
+# text = « Zerotolerantie tegen criminaliteit - Over de aanpak van de misdaad », Uitgeverij Egmont, 2004.
+# auto = ALUD2.8.5
+1	«	«	PUNCT	LET	_	2	punct	2:punct	_
+2	Zerotolerantie	zerotolerantie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
+3	tegen	tegen	ADP	VZ|init	_	2	fixed	2:fixed	_
+4	criminaliteit	criminaliteit	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	fixed	2:fixed	_
+5	-	-	SYM	LET	_	2	fixed	2:fixed	_
+6	Over	over	ADP	VZ|init	_	2	fixed	2:fixed	_
+7	de	de	DET	LID|bep|stan|rest	Definite=Def	2	fixed	2:fixed	_
+8	aanpak	aanpak	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	fixed	2:fixed	_
+9	van	van	ADP	VZ|init	_	2	fixed	2:fixed	_
+10	de	de	DET	LID|bep|stan|rest	Definite=Def	2	fixed	2:fixed	_
+11	misdaad	misdaad	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	fixed	2:fixed	_
+12	»	»	PUNCT	LET	_	2	punct	2:punct	SpaceAfter=No
+13	,	,	PUNCT	LET	_	14	punct	14:punct	_
+14	Uitgeverij	Uitgeverij	PROPN	SPEC|deeleigen	_	2	parataxis	2:parataxis	_
+15	Egmont	Egmont	PROPN	SPEC|deeleigen	_	14	flat	14:flat	SpaceAfter=No
+16	,	,	PUNCT	LET	_	17	punct	17:punct	_
+17	2004	2004	NUM	TW|hoofd|vrij	_	2	parataxis	2:parataxis	SpaceAfter=No
+18	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/wiki-3866/wiki-3866.p.1.s.1.xml
+# sent_id = wiki-3866.p.1.s.1
+# text = Sint-Katelijne-Waver
+# auto = ALUD2.8.5
+1	Sint-Katelijne-Waver	Sint-Katelijne-Waver	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	0	root	0:root	_
+
+# source = LassyDevelop/WR-P-P-H-0000000097/WR-P-P-H-0000000097.p.1.s.3.xml
+# sent_id = WR-P-P-H-0000000097\WR-P-P-H-0000000097.p.1.s.3
+# text = Volgens de politie van Karlsruhe sloeg het voertuig bij een inhaalmanoeuvre over de kop sloeg.
+# auto = ALUD2.8.5
+1	Volgens	volgens	ADP	VZ|init	_	3	case	3:case	_
+2	de	de	DET	LID|bep|stan|rest	Definite=Def	3	det	3:det	_
+3	politie	politie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	obl	6:obl:volgens	_
+4	van	van	ADP	VZ|init	_	5	case	5:case	_
+5	Karlsruhe	Karlsruhe	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	nmod	3:nmod:van	_
+6	sloeg	slaan	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	15	parataxis	15:parataxis	_
+7	het	het	DET	LID|bep|stan|evon	Definite=Def	8	det	8:det	_
+8	voertuig	voertuig	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	6	nsubj	6:nsubj	_
+9	bij	bij	ADP	VZ|init	_	11	case	11:case	_
+10	een	een	DET	LID|onbep|stan|agr	Definite=Ind	11	det	11:det	_
+11	inhaalmanoeuvre	inhaal_manoeuvre	NOUN	N|soort|ev|basis|genus|stan	Gender=Com,Neut|Number=Sing	6	obl	6:obl:bij	_
+12	over	over	ADP	VZ|init	_	14	case	14:case	_
+13	de	de	DET	LID|bep|stan|rest	Definite=Def	14	det	14:det	_
+14	kop	kop	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	obl	6:obl:over	_
+15	sloeg	slaan	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+16	.	.	PUNCT	LET	_	15	punct	15:punct	_
+
+# source = LassyDevelop/wiki-5107/wiki-5107.p.11.s.2.xml
+# sent_id = wiki-5107.p.11.s.2
+# text = Na veel heisa kwam er een politiek compromis uit de bus zodat er vanaf 2004 weer F1 wagens rijden in de Ardennen.
+# auto = ALUD2.8.5
+1	Na	na	ADP	VZ|init	_	3	case	3:case	_
+2	veel	veel	DET	VNW|onbep|grad|stan|prenom|zonder|agr|basis	_	3	det	3:det	_
+3	heisa	heisa	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obl	4:obl:na	_
+4	kwam	komen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+5	er	er	ADV	VNW|aanw|adv-pron|stan|red|3|getal	_	4	advmod	4:advmod	_
+6	een	een	DET	LID|onbep|stan|agr	Definite=Ind	8	det	8:det	_
+7	politiek	politiek	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	8	amod	8:amod	_
+8	compromis	compromis	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
+9	uit	uit	ADP	VZ|init	_	4	compound:prt	4:compound:prt	_
+10	de	de	DET	LID|bep|stan|rest	Definite=Def	9	fixed	9:fixed	_
+11	bus	bus	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	fixed	9:fixed	_
+12	zodat	zodat	SCONJ	VG|onder	_	19	mark	19:mark	_
+13	er	er	ADV	VNW|aanw|adv-pron|stan|red|3|getal	_	19	advmod	19:advmod	_
+14	vanaf	vanaf	ADP	VZ|init	_	15	case	15:case	_
+15	2004	2004	NUM	TW|hoofd|vrij	_	19	obl	19:obl:vanaf	_
+16	weer	weer	ADV	BW	_	19	advmod	19:advmod	_
+17	F1	F1	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	18	nmod	18:nmod	_
+18	wagens	wagen	NOUN	N|soort|mv|basis	Number=Plur	19	nsubj	19:nsubj	_
+19	rijden	rijden	VERB	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl:zodat	_
+20	in	in	ADP	VZ|init	_	22	case	22:case	_
+21	de	de	DET	LID|bep|stan|rest	Definite=Def	22	det	22:det	_
+22	Ardennen	Ardennen	PROPN	N|eigen|mv|basis	Number=Plur	19	obl	19:obl:in	SpaceAfter=No
+23	.	.	PUNCT	LET	_	4	punct	4:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000006/WR-P-P-H-0000000006.p.1.s.4.xml
+# sent_id = WR-P-P-H-0000000006\WR-P-P-H-0000000006.p.1.s.4
+# text = Top-tienspeler of niet; hoe makkelijker iets lijkt, hoe moeilijker het vaak is.
+# auto = ALUD2.8.5
+1	Top-tienspeler	top_tien_speler	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
+2	of	of	CCONJ	VG|neven	_	3	cc	3:cc	_
+3	niet	niet	ADV	BW	_	1	conj	1:conj:of	SpaceAfter=No
+4	;	;	PUNCT	LET	_	8	punct	8:punct	_
+5	hoe	hoe	ADV	BW	_	6	advmod	6:advmod	_
+6	makkelijker	makkelijk	ADJ	ADJ|vrij|comp|zonder	Degree=Cmp	8	xcomp	8:xcomp	_
+7	iets	iets	PRON	VNW|onbep|pron|stan|vol|3o|ev	Person=3|PronType=Ind	8	nsubj	8:nsubj	_
+8	lijkt	lijken	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	SpaceAfter=No
+9	,	,	PUNCT	LET	_	11	punct	11:punct	_
+10	hoe	hoe	ADV	BW	_	11	advmod	11:advmod	_
+11	moeilijker	moeilijk	ADJ	ADJ|vrij|comp|zonder	Degree=Cmp	8	parataxis	8:parataxis	_
+12	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	11	nsubj	11:nsubj	_
+13	vaak	vaak	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	11	advmod	11:advmod	_
+14	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	11	cop	11:cop	SpaceAfter=No
+15	.	.	PUNCT	LET	_	1	punct	1:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000057/WR-P-P-H-0000000057.p.1.s.3.xml
+# sent_id = WR-P-P-H-0000000057\WR-P-P-H-0000000057.p.1.s.3
+# text = Daarbij is een Macedonische militair gedood.
+# auto = ALUD2.8.5
+1	Daarbij	daarbij	ADV	BW	_	6	advmod	6:advmod	_
+2	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+3	een	een	DET	LID|onbep|stan|agr	Definite=Ind	5	det	5:det	_
+4	Macedonische	Macedonisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	5	amod	5:amod	_
+5	militair	militair	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	nsubj:pass	6:nsubj:pass	_
+6	gedood	doden	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	LET	_	6	punct	6:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000031/WR-P-P-H-0000000031.p.6.s.1.xml
+# sent_id = WR-P-P-H-0000000031\WR-P-P-H-0000000031.p.6.s.1
+# text = Maar de afgelopen week lukte het de CSF, die Colombia tot dan steunde, niet meer de gelederen gesloten te houden.
+# auto = ALUD2.8.5
+1	Maar	maar	CCONJ	VG|neven	_	5	mark	5:mark	_
+2	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+3	afgelopen	af_lopen	VERB	WW|vd|prenom|zonder	VerbForm=Part	4	amod	4:amod	_
+4	week	week	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	obl	5:obl	_
+5	lukte	lukken	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	5	expl	5:expl	_
+7	de	de	DET	LID|bep|stan|rest	Definite=Def	8	det	8:det	_
+8	CSF	CSF	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	iobj	5:iobj|14:nsubj	SpaceAfter=No
+9	,	,	PUNCT	LET	_	14	punct	14:punct	_
+10	die	die	PRON	VNW|betr|pron|stan|vol|persoon|getal	PronType=Rel	14	nsubj	8:ref	_
+11	Colombia	Colombia	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	14	obj	14:obj	_
+12	tot	tot	ADP	VZ|init	_	13	case	13:case	_
+13	dan	dan	ADV	BW	_	14	obl	14:obl:tot	_
+14	steunde	steunen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	8	acl:relcl	8:acl:relcl	SpaceAfter=No
+15	,	,	PUNCT	LET	_	16	punct	16:punct	_
+16	niet	niet	ADV	BW	_	5	advmod	5:advmod	_
+17	meer	veel	ADV	VNW|onbep|grad|stan|vrij|zonder|comp	_	16	advmod	16:advmod	_
+18	de	de	DET	LID|bep|stan|rest	Definite=Def	19	det	19:det	_
+19	gelederen	gelid	NOUN	N|soort|mv|basis	Number=Plur	22	obj	22:obj	_
+20	gesloten	sluiten	VERB	WW|vd|vrij|zonder	VerbForm=Part	22	xcomp	22:xcomp	_
+21	te	te	ADP	VZ|init	_	22	mark	22:mark	_
+22	houden	houden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	5	csubj	5:csubj	SpaceAfter=No
+23	.	.	PUNCT	LET	_	5	punct	5:punct	_
+
+# source = LassyDevelop/wiki-9843/wiki-9843.p.15.s.2.xml
+# sent_id = wiki-9843.p.15.s.2
+# text = De naam "Rikki" was hem niet volks genoeg en bovendien was de manier waarop hij getekend was teveel op Kuifje geïnspireerd.
+# auto = ALUD2.8.5
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
+2	naam	naam	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	nsubj	9:nsubj	_
+3	"	"	PUNCT	LET	_	4	punct	4:punct	SpaceAfter=No
+4	Rikki	Rikki	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	appos	2:appos	SpaceAfter=No
+5	"	"	PUNCT	LET	_	4	punct	4:punct	_
+6	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	9	cop	9:cop	_
+7	hem	hem	PRON	VNW|pers|pron|obl|vol|3|ev|masc	Case=Acc|Person=3|PronType=Prs	9	iobj	9:iobj	_
+8	niet	niet	ADV	BW	_	9	advmod	9:advmod	_
+9	volks	volks	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	0:root	_
+10	genoeg	genoeg	ADV	BW	_	9	advmod	9:advmod	_
+11	en	en	CCONJ	VG|neven	_	23	cc	23:cc	_
+12	bovendien	bovendien	ADV	BW	_	23	advmod	23:advmod	_
+13	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	23	aux:pass	23:aux:pass	_
+14	de	de	DET	LID|bep|stan|rest	Definite=Def	15	det	15:det	_
+15	manier	manier	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	23	nsubj:pass	23:nsubj:pass	_
+16	waarop	waarop	ADV	BW	_	18	advmod	15:ref	_
+17	hij	hij	PRON	VNW|pers|pron|nomin|vol|3|ev|masc	Case=Nom|Person=3|PronType=Prs	18	nsubj:pass	18:nsubj:pass	_
+18	getekend	tekenen	VERB	WW|vd|vrij|zonder	VerbForm=Part	15	acl:relcl	15:acl:relcl	_
+19	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	18	aux:pass	18:aux:pass	_
+20	teveel	teveel	ADV	VNW|onbep|grad|stan|vrij|zonder|basis	_	23	advmod	23:advmod	_
+21	op	op	ADP	VZ|init	_	22	case	22:case	_
+22	Kuifje	Kuifje	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	23	obl	23:obl:op	_
+23	geïnspireerd	inspireren	VERB	WW|vd|vrij|zonder	VerbForm=Part	9	conj	9:conj:en	SpaceAfter=No
+24	.	.	PUNCT	LET	_	9	punct	9:punct	_
+
+# source = LassyDevelop/wiki-9843/wiki-9843.p.37.s.4.xml
+# sent_id = wiki-9843.p.37.s.4
+# text = De verhalen bleken echter veel te Vlaams/Nederlands.
+# auto = ALUD2.8.5
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
+2	verhalen	verhaal	NOUN	N|soort|mv|basis	Number=Plur	3	nsubj	3:nsubj	_
+3	bleken	blijken	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	echter	echter	ADV	BW	_	3	advmod	3:advmod	_
+5	veel	veel	PRON	VNW|onbep|grad|stan|vrij|zonder|basis	PronType=Ind	6	nmod	6:nmod	_
+6	te	te	ADV	BW	_	7	advmod	7:advmod	_
+7	Vlaams/Nederlands	Vlaams_Nederlands	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	3	xcomp	3:xcomp	SpaceAfter=No
+8	.	.	PUNCT	LET	_	3	punct	3:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000025/WR-P-P-H-0000000025.p.2.s.5.xml
+# sent_id = WR-P-P-H-0000000025\WR-P-P-H-0000000025.p.2.s.5
+# text = Een type als Jans Koerts.
+# auto = ALUD2.8.5
+1	Een	een	DET	LID|onbep|stan|agr	Definite=Ind	2	det	2:det	_
+2	type	type	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	0	root	0:root	_
+3	als	als	SCONJ	VG|onder	_	4	mark	4:mark	_
+4	Jans	Jans	PROPN	SPEC|deeleigen	_	2	acl	2:acl:als	_
+5	Koerts	Koerts	PROPN	SPEC|deeleigen	_	4	flat	4:flat	SpaceAfter=No
+6	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000031/WR-P-P-H-0000000031.p.1.s.2.xml
+# sent_id = WR-P-P-H-0000000031\WR-P-P-H-0000000031.p.1.s.2
+# text = De Zuid Amerikaanse voetbalfederatie CSF heeft besloten de Copa America uit te stellen.
+# auto = ALUD2.8.5
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+2	Zuid	Zuid	PROPN	SPEC|deeleigen	_	4	nmod	4:nmod	_
+3	Amerikaanse	Amerikaans	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	2	flat	2:flat	_
+4	voetbalfederatie	voetbal_federatie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	nsubj	7:nsubj|13:nsubj:xsubj	_
+5	CSF	CSF	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	appos	4:appos	_
+6	heeft	hebben	AUX	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
+7	besloten	besluiten	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
+8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
+9	Copa	Copa	PROPN	SPEC|deeleigen	_	13	obj	13:obj	_
+10	America	America	PROPN	SPEC|deeleigen	_	9	flat	9:flat	_
+11	uit	uit	ADP	VZ|fin	_	13	compound:prt	13:compound:prt	_
+12	te	te	ADP	VZ|init	_	13	mark	13:mark	_
+13	stellen	uit_stellen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	7	xcomp	7:xcomp	SpaceAfter=No
+14	.	.	PUNCT	LET	_	7	punct	7:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000047/WR-P-P-H-0000000047.p.6.s.1.xml
+# sent_id = WR-P-P-H-0000000047\WR-P-P-H-0000000047.p.6.s.1
+# text = Rossi zette net de aanval in op Biaggi, toen de wedstrijdleiding afvlagde.
+# auto = ALUD2.8.5
+1	Rossi	Rossi	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nsubj	2:nsubj	_
+2	zette	in_zetten	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	net	net	ADV	BW	_	2	advmod	2:advmod	_
+4	de	de	DET	LID|bep|stan|rest	Definite=Def	5	det	5:det	_
+5	aanval	aanval	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	obj	2:obj	_
+6	in	in	ADP	VZ|fin	_	2	compound:prt	2:compound:prt	_
+7	op	op	ADP	VZ|init	_	8	case	8:case	_
+8	Biaggi	Biaggi	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	obl	2:obl:op	SpaceAfter=No
+9	,	,	PUNCT	LET	_	13	punct	13:punct	_
+10	toen	toen	SCONJ	VG|onder	_	13	mark	13:mark	_
+11	de	de	DET	LID|bep|stan|rest	Definite=Def	12	det	12:det	_
+12	wedstrijdleiding	wedstrijd_leiding	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	nsubj	13:nsubj	_
+13	afvlagde	af_vlaggen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:toen	SpaceAfter=No
+14	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000048/WR-P-P-H-0000000048.p.7.s.1.xml
+# sent_id = WR-P-P-H-0000000048\WR-P-P-H-0000000048.p.7.s.1
+# text = In het Vaticaanse geschrift Ad tuendam fidem (1998) kregen critici van het absolute pauselijke 'nee' tegen de vrouwelijke priester de wind van voren.
+# auto = ALUD2.8.5
+1	In	in	ADP	VZ|init	_	4	case	4:case	_
+2	het	het	DET	LID|bep|stan|evon	Definite=Def	4	det	4:det	_
+3	Vaticaanse	Vaticaans	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	4	amod	4:amod	_
+4	geschrift	geschrift	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	11	obl	11:obl:in	_
+5	Ad	Ad	PROPN	SPEC|deeleigen	_	4	appos	4:appos	_
+6	tuendam	tuendam	PROPN	SPEC|deeleigen	_	5	flat	5:flat	_
+7	fidem	fidem	PROPN	SPEC|deeleigen	_	5	flat	5:flat	_
+8	(	(	PUNCT	LET	_	9	punct	9:punct	SpaceAfter=No
+9	1998	1998	NUM	TW|hoofd|vrij	_	4	nummod	4:nummod	SpaceAfter=No
+10	)	)	PUNCT	LET	_	9	punct	9:punct	_
+11	kregen	krijgen	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	_
+12	critici	criticus	NOUN	N|soort|mv|basis	Number=Plur	11	nsubj	11:nsubj	_
+13	van	van	ADP	VZ|init	_	18	case	18:case	_
+14	het	het	DET	LID|bep|stan|evon	Definite=Def	18	det	18:det	_
+15	absolute	absoluut	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	18	amod	18:amod	_
+16	pauselijke	pauselijk	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	18	amod	18:amod	_
+17	'	'	PUNCT	LET	_	18	punct	18:punct	SpaceAfter=No
+18	nee	nee	INTJ	TSW	_	12	nmod	12:nmod:van	SpaceAfter=No
+19	'	'	PUNCT	LET	_	18	punct	18:punct	_
+20	tegen	tegen	ADP	VZ|init	_	23	case	23:case	_
+21	de	de	DET	LID|bep|stan|rest	Definite=Def	23	det	23:det	_
+22	vrouwelijke	vrouwelijk	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	23	amod	23:amod	_
+23	priester	priester	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	18	nmod	18:nmod:tegen	_
+24	de	de	DET	LID|bep|stan|rest	Definite=Def	25	det	25:det	_
+25	wind	wind	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	obj	11:obj	_
+26	van	van	ADP	VZ|init	_	27	case	27:case	_
+27	voren	voren	ADV	BW	_	25	nmod	25:nmod:van	SpaceAfter=No
+28	.	.	PUNCT	LET	_	11	punct	11:punct	_
+
+# source = LassyDevelop/wiki-832/wiki-832.p.5.s.2.xml
+# sent_id = wiki-832.p.5.s.2
+# text = Toch wordt de naam van Ensor op zijn Frans uitsproken.
+# auto = ALUD2.8.5
+1	Toch	toch	ADV	BW	_	10	advmod	10:advmod	_
+2	wordt	worden	AUX	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux:pass	10:aux:pass	_
+3	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+4	naam	naam	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	nsubj:pass	10:nsubj:pass	_
+5	van	van	ADP	VZ|init	_	6	case	6:case	_
+6	Ensor	Ensor	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nmod	4:nmod:van	_
+7	op	op	ADP	VZ|init	_	9	case	9:case	_
+8	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+9	Frans	Frans	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	10	xcomp	10:xcomp	_
+10	uitsproken	uit_spreken	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
+11	.	.	PUNCT	LET	_	10	punct	10:punct	_
+
+# source = LassyDevelop/wiki-832/wiki-832.p.45.s.3.xml
+# sent_id = wiki-832.p.45.s.3
+# text = Er ontstond een conflictsituatie tussen hem en de maatschappij, zodat hij sterk geladen beelden gebruikt, zoals maskers, skeletten, de dood, carnaval en travestieten om die maatschappij voor schut te doen staan.
+# auto = ALUD2.8.5
+1	Er	er	ADV	VNW|aanw|adv-pron|stan|red|3|getal	_	2	advmod	2:advmod	_
+2	ontstond	ontstaan	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	een	een	DET	LID|onbep|stan|agr	Definite=Ind	4	det	4:det	_
+4	conflictsituatie	conflict_situatie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nsubj	2:nsubj	_
+5	tussen	tussen	ADP	VZ|init	_	6	case	6:case	_
+6	hem	hem	PRON	VNW|pers|pron|obl|vol|3|ev|masc	Case=Acc|Person=3|PronType=Prs	4	nmod	4:nmod:tussen	_
+7	en	en	CCONJ	VG|neven	_	9	cc	9:cc	_
+8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
+9	maatschappij	maatschappij	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	conj	4:nmod:tussen|6:conj:en	SpaceAfter=No
+10	,	,	PUNCT	LET	_	16	punct	16:punct	_
+11	zodat	zodat	SCONJ	VG|onder	_	16	mark	16:mark	_
+12	hij	hij	PRON	VNW|pers|pron|nomin|vol|3|ev|masc	Case=Nom|Person=3|PronType=Prs	16	nsubj	16:nsubj	_
+13	sterk	sterk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	14	advmod	14:advmod	_
+14	geladen	laden	VERB	WW|vd|prenom|zonder	VerbForm=Part	15	acl	15:acl	_
+15	beelden	beeld	NOUN	N|soort|mv|basis	Number=Plur	16	obj	16:obj	_
+16	gebruikt	gebruiken	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl:zodat	SpaceAfter=No
+17	,	,	PUNCT	LET	_	19	punct	19:punct	_
+18	zoals	zoals	SCONJ	VG|onder	_	19	mark	19:mark	_
+19	maskers	masker	NOUN	N|soort|mv|basis	Number=Plur	15	nmod	15:nmod	SpaceAfter=No
+20	,	,	PUNCT	LET	_	21	punct	21:punct	_
+21	skeletten	skelet	NOUN	N|soort|mv|basis	Number=Plur	19	conj	15:nmod|19:conj:en	SpaceAfter=No
+22	,	,	PUNCT	LET	_	24	punct	24:punct	_
+23	de	de	DET	LID|bep|stan|rest	Definite=Def	24	det	24:det	_
+24	dood	dood	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	19	conj	15:nmod|19:conj:en	SpaceAfter=No
+25	,	,	PUNCT	LET	_	26	punct	26:punct	_
+26	carnaval	carnaval	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	19	conj	15:nmod|19:conj:en	_
+27	en	en	CCONJ	VG|neven	_	28	cc	28:cc	_
+28	travestieten	travestiet	NOUN	N|soort|mv|basis	Number=Plur	19	conj	15:nmod|19:conj:en	_
+29	om	om	ADP	VZ|init	_	35	mark	35:mark	_
+30	die	die	DET	VNW|aanw|det|stan|prenom|zonder|rest	_	31	det	31:det	_
+31	maatschappij	maatschappij	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	35	obj	35:obj|36:nsubj:xsubj	_
+32	voor	voor	ADP	VZ|init	_	36	compound:prt	36:compound:prt	_
+33	schut	schut	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	32	fixed	32:fixed	_
+34	te	te	ADP	VZ|init	_	35	mark	35:mark	_
+35	doen	doen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	16	advcl	16:advcl:om	_
+36	staan	staan	VERB	WW|inf|vrij|zonder	VerbForm=Inf	35	xcomp	35:xcomp	SpaceAfter=No
+37	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/wiki-6983/wiki-6983.p.9.s.8.xml
+# sent_id = wiki-6983.p.9.s.8
+# text = Fractievoorzitter Vlaams Blok (1992-2004) en Vlaams Belang (2004-...)
+# auto = ALUD2.8.5
+1	Fractievoorzitter	fractie_voorzitter	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
+2	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	1	appos	1:appos	_
+3	Blok	Blok	PROPN	SPEC|deeleigen	_	2	flat	2:flat	_
+4	(	(	PUNCT	LET	_	5	punct	5:punct	SpaceAfter=No
+5	1992-2004	1992-2004	NUM	TW|hoofd|vrij	_	1	nummod	1:nummod	SpaceAfter=No
+6	)	)	PUNCT	LET	_	5	punct	5:punct	_
+7	en	en	CCONJ	VG|neven	_	8	cc	7.1:cc	_
+7.1	Fractievoorzitter	fractie_voorzitter	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	_	_	1:conj:en	CopiedFrom=1
+8	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	1	appos	7.1:appos	_
+9	Belang	Belang	PROPN	SPEC|deeleigen	_	8	flat	8:flat	_
+10	(	(	PUNCT	LET	_	11	punct	11:punct	SpaceAfter=No
+11	2004-...	2004	NUM	TW|hoofd|vrij	_	8	conj	1:appos|7.1:nummod	SpaceAfter=No
+12	)	)	PUNCT	LET	_	11	punct	11:punct	_
+
+# source = LassyDevelop/wiki-1181/wiki-1181.p.17.s.1.xml
+# sent_id = wiki-1181.p.17.s.1
+# text = Leden in het Vlaams Parlement
+# auto = ALUD2.8.5
+1	Leden	lid	NOUN	N|soort|mv|basis	Number=Plur	0	root	0:root	_
+2	in	in	ADP	VZ|init	_	4	case	4:case	_
+3	het	het	DET	LID|bep|stan|evon	Definite=Def	4	det	4:det	_
+4	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	1	nmod	1:nmod:in	_
+5	Parlement	Parlement	PROPN	SPEC|deeleigen	_	4	flat	4:flat	_
+
+# source = LassyDevelop/wiki-9843/wiki-9843.p.43.s.5.xml
+# sent_id = wiki-9843.p.43.s.5
+# text = In 1983 verscheen er een beruchte pornografische parodie rond Suske en Wiske waar Vandersteen naar verluid ook een exemplaar van gekocht zou hebben.
+# auto = ALUD2.8.5
+1	In	in	ADP	VZ|init	_	2	case	2:case	_
+2	1983	1983	NUM	TW|hoofd|vrij	_	3	obl	3:obl:in	_
+3	verscheen	verschijnen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	er	er	ADV	VNW|aanw|adv-pron|stan|red|3|getal	_	3	advmod	3:advmod	_
+5	een	een	DET	LID|onbep|stan|agr	Definite=Ind	8	det	8:det	_
+6	beruchte	berucht	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	8	amod	8:amod	_
+7	pornografische	pornografisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	8	amod	8:amod	_
+8	parodie	parodie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nsubj	3:nsubj|21:obl	_
+9	rond	rond	ADP	VZ|init	_	10	case	10:case	_
+10	Suske	Suske	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	nmod	8:nmod:rond	_
+11	en	en	CCONJ	VG|neven	_	10	flat	10:flat	_
+12	Wiske	Wiske	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	flat	10:flat	_
+13	waar	waar	ADV	VNW|vb|adv-pron|obl|vol|3o|getal	_	21	obl	8:ref	_
+14	Vandersteen	Vandersteen	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	21	nsubj	21:nsubj	_
+15	naar	naar	ADP	VZ|init	_	16	mark	16:mark	_
+16	verluid	verluiden	VERB	WW|vd|vrij|zonder	VerbForm=Part	21	advcl	21:advcl:naar	_
+17	ook	ook	ADV	BW	_	21	advmod	21:advmod	_
+18	een	een	DET	LID|onbep|stan|agr	Definite=Ind	19	det	19:det	_
+19	exemplaar	exemplaar	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	21	obj	21:obj	_
+20	van	van	ADP	VZ|fin	_	13	case	13:case	_
+21	gekocht	kopen	VERB	WW|vd|vrij|zonder	VerbForm=Part	8	acl:relcl	8:acl:relcl	_
+22	zou	zullen	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	21	aux	21:aux	_
+23	hebben	hebben	AUX	WW|inf|vrij|zonder	VerbForm=Inf	21	aux	21:aux	SpaceAfter=No
+24	.	.	PUNCT	LET	_	3	punct	3:punct	_
+
+# source = LassyDevelop/wiki-9843/wiki-9843.p.23.s.3.xml
+# sent_id = wiki-9843.p.23.s.3
+# text = Veel van de verhalen waren eenmalige vertellingen die in een meer realistische stijl getekend waren, zoals « Tijl Uilenspiegel », « Dr. Jekyll & Mr. Hyde » en meer historische, science-fiction en detectiveverhalen.
+# auto = ALUD2.8.5
+1	Veel	veel	PRON	VNW|onbep|grad|stan|vrij|zonder|basis	PronType=Ind	7	nsubj	7:nsubj	_
+2	van	van	ADP	VZ|init	_	4	case	4:case	_
+3	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+4	verhalen	verhaal	NOUN	N|soort|mv|basis	Number=Plur	1	nmod	1:nmod:van	_
+5	waren	zijn	AUX	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
+6	eenmalige	eenmalig	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	7	amod	7:amod	_
+7	vertellingen	vertelling	NOUN	N|soort|mv|basis	Number=Plur	0	root	0:root|14:nsubj:pass	_
+8	die	die	PRON	VNW|betr|pron|stan|vol|persoon|getal	PronType=Rel	14	nsubj:pass	7:ref	_
+9	in	in	ADP	VZ|init	_	13	case	13:case	_
+10	een	een	DET	LID|onbep|stan|agr	Definite=Ind	13	det	13:det	_
+11	meer	veel	ADV	VNW|onbep|grad|stan|vrij|zonder|comp	_	12	advmod	12:advmod	_
+12	realistische	realistisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	13	amod	13:amod	_
+13	stijl	stijl	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	14	obl	14:obl:in	_
+14	getekend	tekenen	VERB	WW|vd|vrij|zonder	VerbForm=Part	7	acl:relcl	7:acl:relcl	_
+15	waren	zijn	AUX	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	14	aux:pass	14:aux:pass	SpaceAfter=No
+16	,	,	PUNCT	LET	_	19	punct	19:punct	_
+17	zoals	zoals	SCONJ	VG|onder	_	19	mark	19:mark	_
+18	«	«	PUNCT	LET	_	19	punct	19:punct	_
+19	Tijl	Tijl	PROPN	SPEC|deeleigen	_	7	nmod	7:nmod	_
+20	Uilenspiegel	Uilenspiegel	PROPN	SPEC|deeleigen	_	19	flat	19:flat	_
+21	»	»	PUNCT	LET	_	19	punct	19:punct	SpaceAfter=No
+22	,	,	PUNCT	LET	_	24	punct	24:punct	_
+23	«	«	PUNCT	LET	_	24	punct	24:punct	_
+24	Dr.	Dr.	SYM	SPEC|vreemd	_	19	conj	7:nmod|19:conj	_
+25	Jekyll	Jekyll	SYM	SPEC|vreemd	_	24	fixed	24:fixed	_
+26	&	&	SYM	SPEC|vreemd	_	24	fixed	24:fixed	_
+27	Mr.	Mr.	SYM	SPEC|vreemd	_	24	fixed	24:fixed	_
+28	Hyde	Hyde	SYM	SPEC|vreemd	_	24	fixed	24:fixed	_
+29	»	»	PUNCT	LET	_	24	punct	24:punct	_
+30	en	en	CCONJ	VG|neven	_	34	cc	34:cc	_
+31	meer	veel	ADV	VNW|onbep|grad|stan|vrij|zonder|comp	_	32	advmod	32:advmod	_
+32	historische	historisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	34	amod	34:amod|36:amod	SpaceAfter=No
+33	,	,	PUNCT	LET	_	32	punct	32:punct	_
+34	science-fiction	science-fiction	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	19	conj	7:nmod|19:conj:en	_
+35	en	en	CCONJ	VG|neven	_	36	cc	36:cc	_
+36	detectiveverhalen	detective_verhaal	NOUN	N|soort|mv|basis	Number=Plur	34	conj	34:conj:en	SpaceAfter=No
+37	.	.	PUNCT	LET	_	7	punct	7:punct	_
+
+# source = LassyDevelop/wiki-9843/wiki-9843.p.21.s.11.xml
+# sent_id = wiki-9843.p.21.s.11
+# text = Hergé noemde Vandersteen zelfs "De Bruegel van het Beeldverhaal".
+# auto = ALUD2.8.5
+1	Hergé	Hergé	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nsubj	2:nsubj	_
+2	noemde	noemen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	Vandersteen	Vandersteen	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	obj	2:obj	_
+4	zelfs	zelfs	ADV	BW	_	2	advmod	2:advmod	_
+5	"	"	PUNCT	LET	_	6	punct	6:punct	SpaceAfter=No
+6	De	de	DET	LID|bep|stan|rest	Definite=Def	2	xcomp	2:xcomp	_
+7	Bruegel	bruegel	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	fixed	6:fixed	_
+8	van	van	ADP	VZ|init	_	6	fixed	6:fixed	_
+9	het	het	DET	LID|bep|stan|evon	Definite=Def	6	fixed	6:fixed	_
+10	Beeldverhaal	beeld_verhaal	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	6	fixed	6:fixed	SpaceAfter=No
+11	"	"	PUNCT	LET	_	6	punct	6:punct	SpaceAfter=No
+12	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/wiki-9843/wiki-9843.p.10.s.3.xml
+# sent_id = wiki-9843.p.10.s.3
+# text = In een week tijd tekende Vandersteen zo een gans album rond « Piwo, het houten paard » vol.
+# auto = ALUD2.8.5
+1	In	in	ADP	VZ|init	_	3	case	3:case	_
+2	een	een	DET	LID|onbep|stan|agr	Definite=Ind	3	det	3:det	_
+3	week	week	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	obl	5:obl:in	_
+4	tijd	tijd	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nmod	3:nmod	_
+5	tekende	tekenen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	Vandersteen	Vandersteen	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nsubj	5:nsubj	_
+7	zo	zo	ADV	BW	_	5	advmod	5:advmod	_
+8	een	een	DET	LID|onbep|stan|agr	Definite=Ind	10	det	10:det	_
+9	gans	gans	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	10	amod	10:amod	_
+10	album	album	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	5	obj	5:obj	_
+11	rond	rond	ADP	VZ|init	_	13	case	13:case	_
+12	«	«	PUNCT	LET	_	13	punct	13:punct	_
+13	Piwo	Piwo	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	nmod	10:nmod:rond	SpaceAfter=No
+14	,	,	SYM	LET	_	13	flat	13:flat	_
+15	het	het	DET	LID|bep|stan|evon	Definite=Def	13	flat	13:flat	_
+16	houten	houten	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	13	flat	13:flat	_
+17	paard	paard	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	13	flat	13:flat	_
+18	»	»	PUNCT	LET	_	13	punct	13:punct	_
+19	vol	vol	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	5	advmod	5:advmod	SpaceAfter=No
+20	.	.	PUNCT	LET	_	5	punct	5:punct	_
+
+# source = LassyDevelop/wiki-9843/wiki-9843.p.12.s.3.xml
+# sent_id = wiki-9843.p.12.s.3
+# text = Het duurde een jaar vooraleer de uitgever de tijd rijp achtte om het verhaal uit te geven.
+# auto = ALUD2.8.5
+1	Het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	duurde	duren	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	een	een	DET	LID|onbep|stan|agr	Definite=Ind	4	det	4:det	_
+4	jaar	jaar	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	obl	2:obl	_
+5	vooraleer	vooraleer	SCONJ	VG|onder	_	11	mark	11:mark	_
+6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
+7	uitgever	uitgever	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	nsubj	11:nsubj	_
+8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
+9	tijd	tijd	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	obj	11:obj	_
+10	rijp	rijp	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	11	xcomp	11:xcomp	_
+11	achtte	achten	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:vooraleer	_
+12	om	om	ADP	VZ|init	_	17	mark	17:mark	_
+13	het	het	DET	LID|bep|stan|evon	Definite=Def	14	det	14:det	_
+14	verhaal	verhaal	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	17	obj	17:obj	_
+15	uit	uit	ADP	VZ|fin	_	17	compound:prt	17:compound:prt	_
+16	te	te	ADP	VZ|init	_	17	mark	17:mark	_
+17	geven	uit_geven	VERB	WW|inf|vrij|zonder	VerbForm=Inf	10	ccomp	10:ccomp	SpaceAfter=No
+18	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000053/WR-P-P-H-0000000053.p.7.s.2.xml
+# sent_id = WR-P-P-H-0000000053\WR-P-P-H-0000000053.p.7.s.2
+# text = Vorig jaar op de Olympische Spelen in Sydney vloog de ploeg er in de halve finales uit tegen de latere kampioen Joegoslavië.
+# auto = ALUD2.8.5
+1	Vorig	vorig	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	2	amod	2:amod	_
+2	jaar	jaar	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	9	obl	9:obl	_
+3	op	op	ADP	VZ|init	_	5	case	5:case	_
+4	de	de	DET	LID|bep|stan|rest	Definite=Def	5	det	5:det	_
+5	Olympische	Olympische	PROPN	SPEC|deeleigen	_	2	nmod	2:nmod:op	_
+6	Spelen	Spelen	PROPN	SPEC|deeleigen	_	5	flat	5:flat	_
+7	in	in	ADP	VZ|init	_	8	case	8:case	_
+8	Sydney	Sydney	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	5	nmod	5:nmod:in	_
+9	vloog	vliegen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+10	de	de	DET	LID|bep|stan|rest	Definite=Def	11	det	11:det	_
+11	ploeg	ploeg	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	nsubj	9:nsubj	_
+12	er	er	ADV	VNW|aanw|adv-pron|stan|red|3|getal	_	9	obl	9:obl:uit	_
+13	in	in	ADP	VZ|init	_	16	case	16:case	_
+14	de	de	DET	LID|bep|stan|rest	Definite=Def	16	det	16:det	_
+15	halve	half	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	16	amod	16:amod	_
+16	finales	finale	NOUN	N|soort|mv|basis	Number=Plur	9	obl	9:obl:in	_
+17	uit	uit	ADP	VZ|fin	_	12	case	12:case	_
+18	tegen	tegen	ADP	VZ|init	_	21	case	21:case	_
+19	de	de	DET	LID|bep|stan|rest	Definite=Def	21	det	21:det	_
+20	latere	laat	ADJ	ADJ|prenom|comp|met-e|stan	Degree=Cmp	21	amod	21:amod	_
+21	kampioen	kampioen	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	obl	9:obl:tegen	_
+22	Joegoslavië	Joegoslavië	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	21	appos	21:appos	SpaceAfter=No
+23	.	.	PUNCT	LET	_	9	punct	9:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000020/WR-P-P-H-0000000020.p.3.s.2.xml
+# sent_id = WR-P-P-H-0000000020\WR-P-P-H-0000000020.p.3.s.2
+# text = Van der Schans:,, Ik wist dat het op die driesprong moeilijk zou worden.
+# auto = ALUD2.8.5
+1	Van	Van	PROPN	SPEC|deeleigen	_	7	parataxis	7:parataxis	_
+2	der	der	PROPN	SPEC|deeleigen	_	1	flat	1:flat	_
+3	Schans	Schans	PROPN	SPEC|deeleigen	_	1	flat	1:flat	SpaceAfter=No
+4	:	:	PUNCT	LET	_	1	punct	1:punct	SpaceAfter=No
+5	,,	,,	PUNCT	LET	_	1	punct	1:punct	_
+6	Ik	ik	PRON	VNW|pers|pron|nomin|vol|1|ev	Case=Nom|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+7	wist	weten	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+8	dat	dat	SCONJ	VG|onder	_	15	mark	15:mark	_
+9	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	15	nsubj	15:nsubj|15:nsubj:xsubj	_
+10	op	op	ADP	VZ|init	_	12	case	12:case	_
+11	die	die	DET	VNW|aanw|det|stan|prenom|zonder|rest	_	12	det	12:det	_
+12	driesprong	driesprong	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	15	obl	15:obl:op	_
+13	moeilijk	moeilijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	15	xcomp	15:xcomp	_
+14	zou	zullen	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	15	aux	15:aux	_
+15	worden	worden	VERB	WW|inf|vrij|zonder	VerbForm=Inf	7	ccomp	7:ccomp	SpaceAfter=No
+16	.	.	PUNCT	LET	_	7	punct	7:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000047/WR-P-P-H-0000000047.p.3.s.2.xml
+# sent_id = WR-P-P-H-0000000047\WR-P-P-H-0000000047.p.3.s.2
+# text = De toeschouwers wisten de negende plaats op de juiste waarde in te schatten.
+# auto = ALUD2.8.5
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
+2	toeschouwers	toeschouwer	NOUN	N|soort|mv|basis	Number=Plur	3	nsubj	3:nsubj|13:nsubj:xsubj	_
+3	wisten	weten	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	de	de	DET	LID|bep|stan|rest	Definite=Def	6	det	6:det	_
+5	negende	negen	ADJ	TW|rang|prenom|stan	_	6	amod	6:amod	_
+6	plaats	plaats	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	obj	13:obj	_
+7	op	op	ADP	VZ|init	_	10	case	10:case	_
+8	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_
+9	juiste	juist	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	10	amod	10:amod	_
+10	waarde	waarde	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	obl	13:obl:op	_
+11	in	in	ADP	VZ|fin	_	13	compound:prt	13:compound:prt	_
+12	te	te	ADP	VZ|init	_	13	mark	13:mark	_
+13	schatten	in_schatten	VERB	WW|inf|vrij|zonder	VerbForm=Inf	3	xcomp	3:xcomp	SpaceAfter=No
+14	.	.	PUNCT	LET	_	3	punct	3:punct	_
+
+# source = LassyDevelop/wiki-3866/wiki-3866.p.13.s.1.xml
+# sent_id = wiki-3866.p.13.s.1
+# text = Kastelen: Sint-Michielskasteel, Kasteel Lombaardstein, Kasteel Fruitenborg, Kasteel Zorgvliet, Kasteel Rozenhout
+# auto = ALUD2.8.5
+1	Kastelen	kasteel	NOUN	N|soort|mv|basis	Number=Plur	0	root	0:root	SpaceAfter=No
+2	:	:	PUNCT	LET	_	3	punct	3:punct	_
+3	Sint-Michielskasteel	Sint-Michielskasteel	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	1	parataxis	1:parataxis	SpaceAfter=No
+4	,	,	PUNCT	LET	_	5	punct	5:punct	_
+5	Kasteel	Kasteel	PROPN	SPEC|deeleigen	_	3	conj	3:conj	_
+6	Lombaardstein	Lombaardstein	PROPN	SPEC|deeleigen	_	5	flat	5:flat	SpaceAfter=No
+7	,	,	PUNCT	LET	_	8	punct	8:punct	_
+8	Kasteel	Kasteel	PROPN	SPEC|deeleigen	_	3	conj	3:conj	_
+9	Fruitenborg	Fruitenborg	PROPN	SPEC|deeleigen	_	8	flat	8:flat	SpaceAfter=No
+10	,	,	PUNCT	LET	_	11	punct	11:punct	_
+11	Kasteel	Kasteel	PROPN	SPEC|deeleigen	_	3	conj	3:conj	_
+12	Zorgvliet	Zorgvliet	PROPN	SPEC|deeleigen	_	11	flat	11:flat	SpaceAfter=No
+13	,	,	PUNCT	LET	_	14	punct	14:punct	_
+14	Kasteel	Kasteel	PROPN	SPEC|deeleigen	_	3	conj	3:conj	_
+15	Rozenhout	Rozenhout	PROPN	SPEC|deeleigen	_	14	flat	14:flat	_
+
+# source = LassyDevelop/WR-P-P-H-0000000080/WR-P-P-H-0000000080.p.1.s.4.xml
+# sent_id = WR-P-P-H-0000000080\WR-P-P-H-0000000080.p.1.s.4
+# text = In het dorp Yuku was op 15 juni de eerste moordpartij, waarna ook in andere dorpen mensen met messen om het leven werden gebracht.
+# auto = ALUD2.8.5
+1	In	in	ADP	VZ|init	_	3	case	3:case	_
+2	het	het	DET	LID|bep|stan|evon	Definite=Def	3	det	3:det	_
+3	dorp	dorp	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	5	obl	5:obl:in	_
+4	Yuku	Yuku	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	appos	3:appos	_
+5	was	zijn	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	op	op	ADP	VZ|init	_	7	case	7:case	_
+7	15	15	NUM	TW|hoofd|vrij	_	5	obl	5:obl:op	_
+8	juni	juni	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	flat	7:flat	_
+9	de	de	DET	LID|bep|stan|rest	Definite=Def	11	det	11:det	_
+10	eerste	één	ADJ	TW|rang|prenom|stan	_	11	amod	11:amod	_
+11	moordpartij	moord_partij	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nsubj	5:nsubj	SpaceAfter=No
+12	,	,	PUNCT	LET	_	25	punct	25:punct	_
+13	waarna	waarna	ADV	BW	_	25	advmod	25:advmod	_
+14	ook	ook	ADV	BW	_	25	advmod	25:advmod	_
+15	in	in	ADP	VZ|init	_	17	case	17:case	_
+16	andere	ander	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	17	amod	17:amod	_
+17	dorpen	dorp	NOUN	N|soort|mv|basis	Number=Plur	25	obl	25:obl:in	_
+18	mensen	mens	NOUN	N|soort|mv|basis	Number=Plur	25	nsubj:pass	25:nsubj:pass	_
+19	met	met	ADP	VZ|init	_	20	case	20:case	_
+20	messen	mes	NOUN	N|soort|mv|basis	Number=Plur	25	obl	25:obl:met	_
+21	om	om	ADP	VZ|init	_	25	compound:prt	25:compound:prt	_
+22	het	het	DET	LID|bep|stan|evon	Definite=Def	21	fixed	21:fixed	_
+23	leven	leven	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	21	fixed	21:fixed	_
+24	werden	worden	AUX	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	25	aux:pass	25:aux:pass	_
+25	gebracht	brengen	VERB	WW|vd|vrij|zonder	VerbForm=Part	5	advcl	5:advcl	SpaceAfter=No
+26	.	.	PUNCT	LET	_	5	punct	5:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000020/WR-P-P-H-0000000020.p.2.s.4.xml
+# sent_id = WR-P-P-H-0000000020\WR-P-P-H-0000000020.p.2.s.4
+# text = Daarna crashte hij ook nog eens op een muur en op een dubbele oxer aan het eind.
+# auto = ALUD2.8.5
+1	Daarna	daarna	ADV	BW	_	2	advmod	2:advmod	_
+2	crashte	crashen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	hij	hij	PRON	VNW|pers|pron|nomin|vol|3|ev|masc	Case=Nom|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+4	ook	ook	ADV	BW	_	2	advmod	2:advmod	_
+5	nog	nog	ADV	BW	_	2	advmod	2:advmod	_
+6	eens	eens	ADV	BW	_	2	advmod	2:advmod	_
+7	op	op	ADP	VZ|init	_	9	case	9:case	_
+8	een	een	DET	LID|onbep|stan|agr	Definite=Ind	9	det	9:det	_
+9	muur	muur	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	obl	2:obl:op	_
+10	en	en	CCONJ	VG|neven	_	14	cc	14:cc	_
+11	op	op	ADP	VZ|init	_	14	case	14:case	_
+12	een	een	DET	LID|onbep|stan|agr	Definite=Ind	14	det	14:det	_
+13	dubbele	dubbel	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	14	amod	14:amod	_
+14	oxer	oxer	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	conj	2:obl:op|9:conj:en	_
+15	aan	aan	ADP	VZ|init	_	17	case	17:case	_
+16	het	het	DET	LID|bep|stan|evon	Definite=Def	17	det	17:det	_
+17	eind	eind	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	14	nmod	14:nmod:aan	SpaceAfter=No
+18	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000031/WR-P-P-H-0000000031.p.6.s.3.xml
+# sent_id = WR-P-P-H-0000000031\WR-P-P-H-0000000031.p.6.s.3
+# text = Zij hebben een machtige positie binnen de CSF en zij wilden hun elftallen niet laten spelen in Colombia.
+# auto = ALUD2.8.5
+1	Zij	zij	PRON	VNW|pers|pron|nomin|vol|3p|mv	Case=Nom|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	hebben	hebben	VERB	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	een	een	DET	LID|onbep|stan|agr	Definite=Ind	5	det	5:det	_
+4	machtige	machtig	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	5	amod	5:amod	_
+5	positie	positie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	obj	2:obj	_
+6	binnen	binnen	ADP	VZ|init	_	8	case	8:case	_
+7	de	de	DET	LID|bep|stan|rest	Definite=Def	8	det	8:det	_
+8	CSF	CSF	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nmod	5:nmod:binnen	_
+9	en	en	CCONJ	VG|neven	_	11	cc	11:cc	_
+10	zij	zij	PRON	VNW|pers|pron|nomin|vol|3p|mv	Case=Nom|Person=3|PronType=Prs	11	nsubj	11:nsubj|15:nsubj:xsubj	_
+11	wilden	willen	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	2	conj	2:conj:en	_
+12	hun	hun	PRON	VNW|bez|det|stan|vol|3|mv|prenom|zonder|agr	Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	_
+13	elftallen	elftal	NOUN	N|soort|mv|basis	Number=Plur	15	obj	15:obj|16:nsubj:xsubj	_
+14	niet	niet	ADV	BW	_	16	advmod	16:advmod	_
+15	laten	laten	VERB	WW|inf|vrij|zonder	VerbForm=Inf	11	xcomp	11:xcomp	_
+16	spelen	spelen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	15	xcomp	15:xcomp	_
+17	in	in	ADP	VZ|init	_	18	case	18:case	_
+18	Colombia	Colombia	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	16	obl	16:obl:in	SpaceAfter=No
+19	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000053/WR-P-P-H-0000000053.p.2.s.1.xml
+# sent_id = WR-P-P-H-0000000053\WR-P-P-H-0000000053.p.2.s.1
+# text = Als dat aantal niet werd gehaald, volgde een boete van 2000 dollar en mogelijk geen nieuwe uitnodiging voor het World League-seizoen 2002.
+# auto = ALUD2.8.5
+1	Als	als	SCONJ	VG|onder	_	6	mark	6:mark	_
+2	dat	dat	DET	VNW|aanw|det|stan|prenom|zonder|evon	_	3	det	3:det	_
+3	aantal	aantal	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	6	nsubj:pass	6:nsubj:pass	_
+4	niet	niet	ADV	BW	_	6	advmod	6:advmod	_
+5	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+6	gehaald	halen	VERB	WW|vd|vrij|zonder	VerbForm=Part	8	advcl	8:advcl:als	SpaceAfter=No
+7	,	,	PUNCT	LET	_	6	punct	6:punct	_
+8	volgde	volgen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+9	een	een	DET	LID|onbep|stan|agr	Definite=Ind	10	det	10:det	_
+10	boete	boete	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	nsubj	8:nsubj	_
+11	van	van	ADP	VZ|init	_	13	case	13:case	_
+12	2000	2000	NUM	TW|hoofd|prenom|stan	_	13	nummod	13:nummod	_
+13	dollar	dollar	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	nmod	10:nmod:van	_
+14	en	en	CCONJ	VG|neven	_	18	cc	18:cc	_
+15	mogelijk	mogelijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	18	amod	18:amod	_
+16	geen	geen	DET	VNW|onbep|det|stan|prenom|zonder|agr	_	18	det	18:det	_
+17	nieuwe	nieuw	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	18	amod	18:amod	_
+18	uitnodiging	uitnodiging	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	conj	8:nsubj|10:conj:en	_
+19	voor	voor	ADP	VZ|init	_	21	case	21:case	_
+20	het	het	DET	LID|bep|stan|evon	Definite=Def	21	det	21:det	_
+21	World	World	PROPN	SPEC|deeleigen	_	18	nmod	18:nmod:voor	_
+22	League-seizoen	League_seizoen	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	21	flat	21:flat	_
+23	2002	2002	NUM	TW|hoofd|vrij	_	21	nummod	21:nummod	SpaceAfter=No
+24	.	.	PUNCT	LET	_	8	punct	8:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000025/WR-P-P-H-0000000025.p.12.s.3.xml
+# sent_id = WR-P-P-H-0000000025\WR-P-P-H-0000000025.p.12.s.3
+# text = De toekomst van het team is vaag, Koerts kijkt ondertussen al verder.
+# auto = ALUD2.8.5
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
+2	toekomst	toekomst	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	nsubj	7:nsubj	_
+3	van	van	ADP	VZ|init	_	5	case	5:case	_
+4	het	het	DET	LID|bep|stan|evon	Definite=Def	5	det	5:det	_
+5	team	team	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	nmod	2:nmod:van	_
+6	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+7	vaag	vaag	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	0:root	SpaceAfter=No
+8	,	,	PUNCT	LET	_	10	punct	10:punct	_
+9	Koerts	Koerts	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	nsubj	10:nsubj	_
+10	kijkt	kijken	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	7	parataxis	7:parataxis	_
+11	ondertussen	ondertussen	ADV	BW	_	10	advmod	10:advmod	_
+12	al	al	ADV	BW	_	10	advmod	10:advmod	_
+13	verder	ver	ADJ	ADJ|vrij|comp|zonder	Degree=Cmp	10	advmod	10:advmod	SpaceAfter=No
+14	.	.	PUNCT	LET	_	7	punct	7:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000047/WR-P-P-H-0000000047.p.4.s.6.xml
+# sent_id = WR-P-P-H-0000000047\WR-P-P-H-0000000047.p.4.s.6
+# text = Prompt was de race voorbij.
+# auto = ALUD2.8.5
+1	Prompt	prompt	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	5	advmod	5:advmod	_
+2	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
+3	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+4	race	race	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nsubj	5:nsubj	_
+5	voorbij	voorbij	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	0:root	SpaceAfter=No
+6	.	.	PUNCT	LET	_	5	punct	5:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000105/WR-P-P-H-0000000105.p.6.s.3.xml
+# sent_id = WR-P-P-H-0000000105\WR-P-P-H-0000000105.p.6.s.3
+# text = Tot halverwege de koers had Van Alebeek moeite om zich volledig te concentreren op de wedstrijd.
+# auto = ALUD2.8.5
+1	Tot	tot	ADP	VZ|init	_	4	case	4:case	_
+2	halverwege	halverwege	ADP	VZ|init	_	4	case	4:case	_
+3	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+4	koers	koers	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	obl	5:obl:tot	_
+5	had	hebben	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	Van	Van	PROPN	SPEC|deeleigen	_	5	nsubj	5:nsubj	_
+7	Alebeek	Alebeek	PROPN	SPEC|deeleigen	_	6	flat	6:flat	_
+8	moeite	moeite	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	obj	5:obj	_
+9	om	om	ADP	VZ|init	_	13	mark	13:mark	_
+10	zich	zich	PRON	VNW|refl|pron|obl|red|3|getal	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	13	expl:pv	13:expl:pv	_
+11	volledig	volledig	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	13	advmod	13:advmod	_
+12	te	te	ADP	VZ|init	_	13	mark	13:mark	_
+13	concentreren	concentreren	VERB	WW|inf|vrij|zonder	VerbForm=Inf	8	acl	8:acl:om	_
+14	op	op	ADP	VZ|init	_	16	case	16:case	_
+15	de	de	DET	LID|bep|stan|rest	Definite=Def	16	det	16:det	_
+16	wedstrijd	wedstrijd	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	obl	13:obl:op	SpaceAfter=No
+17	.	.	PUNCT	LET	_	5	punct	5:punct	_
+
+# source = LassyDevelop/wiki-9843/wiki-9843.p.43.s.3.xml
+# sent_id = wiki-9843.p.43.s.3
+# text = Ook Vandersteen's andere reeksen beïnvloedden vrijwel elke striptekenaar in Vlaanderen: Marc Sleen, Jef Nys, Merho, Willy Linthout en Urbanus, Jan Bosschaert, Jean-Pol, Marc Legendre, Jeroom en Kamagurka.
+# auto = ALUD2.8.5
+1	Ook	ook	ADV	BW	_	4	amod	4:amod	_
+2	Vandersteen's	Vandersteen	PROPN	N|eigen|ev|basis|gen	Number=Sing	4	nmod:poss	4:nmod:poss	_
+3	andere	ander	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	4	amod	4:amod	_
+4	reeksen	reeks	NOUN	N|soort|mv|basis	Number=Plur	5	nsubj	5:nsubj	_
+5	beïnvloedden	beïnvloeden	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	_
+6	vrijwel	vrijwel	ADV	BW	_	8	amod	8:amod	_
+7	elke	elk	DET	VNW|onbep|det|stan|prenom|met-e|evz	_	8	det	8:det	_
+8	striptekenaar	strip_tekenaar	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	obj	5:obj	_
+9	in	in	ADP	VZ|init	_	10	case	10:case	_
+10	Vlaanderen	Vlaanderen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	8	nmod	8:nmod:in	SpaceAfter=No
+11	:	:	PUNCT	LET	_	12	punct	12:punct	_
+12	Marc	Marc	PROPN	SPEC|deeleigen	_	8	appos	8:appos	_
+13	Sleen	Sleen	PROPN	SPEC|deeleigen	_	12	flat	12:flat	SpaceAfter=No
+14	,	,	PUNCT	LET	_	15	punct	15:punct	_
+15	Jef	Jef	PROPN	SPEC|deeleigen	_	12	conj	8:appos|12:conj:en	_
+16	Nys	Nys	PROPN	SPEC|deeleigen	_	15	flat	15:flat	SpaceAfter=No
+17	,	,	PUNCT	LET	_	18	punct	18:punct	_
+18	Merho	Merho	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	12	conj	8:appos|12:conj:en	SpaceAfter=No
+19	,	,	PUNCT	LET	_	20	punct	20:punct	_
+20	Willy	Willy	PROPN	SPEC|deeleigen	_	12	conj	8:appos|12:conj:en	_
+21	Linthout	Linthout	PROPN	SPEC|deeleigen	_	20	flat	20:flat	_
+22	en	en	CCONJ	VG|neven	_	23	cc	23:cc	_
+23	Urbanus	Urbanus	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	20	conj	20:conj:en	SpaceAfter=No
+24	,	,	PUNCT	LET	_	25	punct	25:punct	_
+25	Jan	Jan	PROPN	SPEC|deeleigen	_	12	conj	8:appos|12:conj:en	_
+26	Bosschaert	Bosschaert	PROPN	SPEC|deeleigen	_	25	flat	25:flat	SpaceAfter=No
+27	,	,	PUNCT	LET	_	28	punct	28:punct	_
+28	Jean-Pol	Jean_Pol	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	12	conj	8:appos|12:conj:en	SpaceAfter=No
+29	,	,	PUNCT	LET	_	30	punct	30:punct	_
+30	Marc	Marc	PROPN	SPEC|deeleigen	_	12	conj	8:appos|12:conj:en	_
+31	Legendre	Legendre	PROPN	SPEC|deeleigen	_	30	flat	30:flat	SpaceAfter=No
+32	,	,	PUNCT	LET	_	33	punct	33:punct	_
+33	Jeroom	Jeroom	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	12	conj	8:appos|12:conj:en	_
+34	en	en	CCONJ	VG|neven	_	35	cc	35:cc	_
+35	Kamagurka	Kamagurka	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	12	conj	8:appos|12:conj:en	SpaceAfter=No
+36	.	.	PUNCT	LET	_	5	punct	5:punct	_
+
+# source = LassyDevelop/wiki-9843/wiki-9843.p.13.s.5.xml
+# sent_id = wiki-9843.p.13.s.5
+# text = We hadden hier behoefte aan een glimlach bij het ontbijt.
+# auto = ALUD2.8.5
+1	We	we	PRON	VNW|pers|pron|nomin|red|1|mv	Case=Nom|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	hadden	hebben	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	hier	hier	ADV	VNW|aanw|adv-pron|obl|vol|3o|getal	_	2	advmod	2:advmod	_
+4	behoefte	behoefte	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	obj	2:obj	_
+5	aan	aan	ADP	VZ|init	_	7	case	7:case	_
+6	een	een	DET	LID|onbep|stan|agr	Definite=Ind	7	det	7:det	_
+7	glimlach	glimlach	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nmod	4:nmod:aan	_
+8	bij	bij	ADP	VZ|init	_	10	case	10:case	_
+9	het	het	DET	LID|bep|stan|evon	Definite=Def	10	det	10:det	_
+10	ontbijt	ontbijt	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	7	nmod	7:nmod:bij	SpaceAfter=No
+11	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/wiki-1181/wiki-1181.p.27.s.1.xml
+# sent_id = wiki-1181.p.27.s.1
+# text = Zie ook
+# auto = ALUD2.8.5
+1	Zie	zien	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	ook	ook	ADV	BW	_	1	advmod	1:advmod	_
+
+# source = LassyDevelop/wiki-1181/wiki-1181.p.14.s.1.xml
+# sent_id = wiki-1181.p.14.s.1
+# text = Vooraanstaande leden
+# auto = ALUD2.8.5
+1	Vooraanstaande	vooraanstaand	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	2	amod	2:amod	_
+2	leden	lid	NOUN	N|soort|mv|basis	Number=Plur	0	root	0:root	_
+
+# source = LassyDevelop/wiki-832/wiki-832.p.29.s.2.xml
+# sent_id = wiki-832.p.29.s.2
+# text = Dit werd het meest spectaculaire werk van de jonge meester, dat nadien ook zijn roem zou uitdragen over de gehele wereld.
+# auto = ALUD2.8.5
+1	Dit	dit	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	2	nsubj	2:nsubj	_
+2	werd	worden	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	het	het	DET	LID|bep|stan|evon	Definite=Def	6	det	6:det	_
+4	meest	veel	ADV	VNW|onbep|grad|stan|vrij|zonder|sup	_	5	advmod	5:advmod	_
+5	spectaculaire	spectaculair	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	6	amod	6:amod	_
+6	werk	werk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	xcomp	2:xcomp|18:nsubj	_
+7	van	van	ADP	VZ|init	_	10	case	10:case	_
+8	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_
+9	jonge	jong	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	10	amod	10:amod	_
+10	meester	meester	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	nmod	6:nmod:van	SpaceAfter=No
+11	,	,	PUNCT	LET	_	18	punct	18:punct	_
+12	dat	dat	PRON	VNW|betr|pron|stan|vol|3|ev	Person=3|PronType=Rel	18	nsubj	6:ref	_
+13	nadien	nadien	ADV	BW	_	18	advmod	18:advmod	_
+14	ook	ook	ADV	BW	_	18	advmod	18:advmod	_
+15	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	_
+16	roem	roem	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	18	obj	18:obj	_
+17	zou	zullen	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	18	aux	18:aux	_
+18	uitdragen	uit_dragen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	6	acl:relcl	6:acl:relcl	_
+19	over	over	ADP	VZ|init	_	22	case	22:case	_
+20	de	de	DET	LID|bep|stan|rest	Definite=Def	22	det	22:det	_
+21	gehele	geheel	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	22	amod	22:amod	_
+22	wereld	wereld	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	18	obl	18:obl:over	SpaceAfter=No
+23	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000012/WR-P-P-H-0000000012.p.1.s.3.xml
+# sent_id = WR-P-P-H-0000000012\WR-P-P-H-0000000012.p.1.s.3
+# text = De Oranje-beloften legden het gisteravond zowel in fysiek als in technisch opzicht af tegen Egypte.
+# auto = ALUD2.8.5
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
+2	Oranje-beloften	Oranje_belofte	NOUN	N|soort|mv|basis	Number=Plur	3	nsubj	3:nsubj	_
+3	legden	af_leggen	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	3	obj	3:obj	_
+5	gisteravond	gisteravond	ADV	BW	_	3	advmod	3:advmod	_
+6	zowel	zowel	CCONJ	BW	_	8	cc:preconj	8.1:cc:preconj	_
+7	in	in	ADP	VZ|init	_	8	case	8.1:case	_
+8	fysiek	fysiek	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	3	obl	8.1:amod	_
+8.1	opzicht	opzicht	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	_	_	3:obl:in	CopiedFrom=12
+9	als	als	SCONJ	VG|onder	_	12	cc	12:cc	_
+10	in	in	ADP	VZ|init	_	12	case	12:case	_
+11	technisch	technisch	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	12	amod	12:amod	_
+12	opzicht	opzicht	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	8	conj	3:amod|8.1:conj:als	_
+13	af	af	ADP	VZ|fin	_	3	compound:prt	3:compound:prt	_
+14	tegen	tegen	ADP	VZ|init	_	15	case	15:case	_
+15	Egypte	Egypte	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	obl	3:obl:tegen	SpaceAfter=No
+16	.	.	PUNCT	LET	_	3	punct	3:punct	_
+
+# source = LassyDevelop/WR-P-P-H-0000000025/WR-P-P-H-0000000025.p.11.s.4.xml
+# sent_id = WR-P-P-H-0000000025\WR-P-P-H-0000000025.p.11.s.4
+# text = Met een ritzege in de Vuelta vorig jaar veranderde dat.
+# auto = ALUD2.8.5
+1	Met	met	ADP	VZ|init	_	3	case	3:case	_
+2	een	een	DET	LID|onbep|stan|agr	Definite=Ind	3	det	3:det	_
+3	ritzege	rit_zege	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	obl	9:obl:met	_
+4	in	in	ADP	VZ|init	_	6	case	6:case	_
+5	de	de	DET	LID|bep|stan|rest	Definite=Def	6	det	6:det	_
+6	Vuelta	Vuelta	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nmod	3:nmod:in	_
+7	vorig	vorig	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	8	amod	8:amod	_
+8	jaar	jaar	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	nmod	3:nmod	_
+9	veranderde	veranderen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+10	dat	dat	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	9	nsubj	9:nsubj	SpaceAfter=No
+11	.	.	PUNCT	LET	_	9	punct	9:punct	_
+

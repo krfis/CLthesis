@@ -1,0 +1,1140 @@
+# sent_id = dev-417
+# text = A legnagyobb olajtársaságok máris kifogásolják az exportilleték emelését, valamint azt, hogy az állami duma elé terjesztett jövő évi költségvetési törvényjavaslat szerint az üzemanyagok és motorolajok jövedéki adóját több mint a háromszorosára emelnék.
+1	A	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	legnagyobb	nagy	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	3	amod:att	_	_
+3	olajtársaságok	olajtársaság	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
+4	máris	máris	ADV	_	_	5	advmod:tlocy	_	_
+5	kifogásolják	kifogásol	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	az	az	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	exportilleték	exportilleték	NOUN	_	Case=Nom|Number=Sing	8	nmod:att	_	_
+8	emelését	emelés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	valamint	valamint	CCONJ	_	_	11	cc	_	_
+11	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	34	punct	_	_
+13	hogy	hogy	SCONJ	_	_	34	mark	_	_
+14	az	az	DET	_	Definite=Def|PronType=Art	16	det	_	_
+15	állami	állami	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	16	amod:att	_	_
+16	duma	duma	NOUN	_	Case=Nom|Number=Sing	18	obl	_	_
+17	elé	elé	ADP	_	_	16	case	_	_
+18	terjesztett	terjesztett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	22	amod:att	_	_
+19	jövő	jövő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	20	amod:att	_	_
+20	évi	évi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	21	amod:att	_	_
+21	költségvetési	költségvetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	22	amod:att	_	_
+22	törvényjavaslat	törvényjavaslat	NOUN	_	Case=Nom|Number=Sing	34	obl	_	_
+23	szerint	szerint	ADP	_	_	22	case	_	_
+24	az	az	DET	_	Definite=Def|PronType=Art	25	det	_	_
+25	üzemanyagok	üzemanyag	NOUN	_	Case=Nom|Number=Plur	29	nmod:att	_	_
+26	és	és	CCONJ	_	_	27	cc	_	_
+27	motorolajok	motorolaj	NOUN	_	Case=Nom|Number=Plur	25	conj	_	_
+28	jövedéki	jövedéki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	29	amod:att	_	_
+29	adóját	adó	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	34	obj	_	_
+30	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	33	amod:att	_	_
+31	mint	mint	SCONJ	_	_	30	fixed	_	_
+32	a	a	DET	_	Definite=Def|PronType=Art	33	det	_	_
+33	háromszorosára	háromszoros	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	34	obl	_	_
+34	emelnék	emel	VERB	_	Definite=Def|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = dev-411
+# text = A javaslat értelmében a nyersolaj után tonnánként az év elején bevezetett illeték dupláját, azaz 10 eurót kell kifizetnie az exportőröknek.
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	javaslat	javaslat	NOUN	_	Case=Nom|Number=Sing	3	nmod:att	_	_
+3	értelmében	értelem	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	18	obl	_	_
+4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	nyersolaj	nyersolaj	NOUN	_	Case=Nom|Number=Sing	19	obl	_	_
+6	után	után	ADP	_	_	5	case	_	_
+7	tonnánként	tonna	NOUN	_	Case=Dis|Number=Sing	19	obl	_	_
+8	az	az	DET	_	Definite=Def|PronType=Art	9	det	_	_
+9	év	év	NOUN	_	Case=Nom|Number=Sing	10	nmod:att	_	_
+10	elején	eleje	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obl	_	_
+11	bevezetett	bevezetett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	12	amod:att	_	_
+12	illeték	illeték	NOUN	_	Case=Nom|Number=Sing	13	nmod:att	_	_
+13	dupláját	dupla	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	19	obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	azaz	azaz	CCONJ	_	_	17	cc	_	_
+16	10	10	NUM	_	Case=Nom|Number=Sing|NumType=Card	17	amod:att	_	_
+17	eurót	euró	NOUN	_	Case=Acc|Number=Sing	13	conj	_	_
+18	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+19	kifizetnie	kifizet	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	18	xcomp	_	_
+20	az	az	DET	_	Definite=Def|PronType=Art	21	det	_	_
+21	exportőröknek	exportőr	NOUN	_	Case=Dat|Number=Plur	19	iobj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = dev-221
+# text = Utalt arra, hogy egyik versenytársuk főműsoridőben sugárzott riportot a csecsen maffiózók kegyetlenkedéseiről, amit a médiahatóság kifogásolt.
+1	Utalt	utal	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	arra	az	PRON	_	Case=Sbl|Number=Sing|Person=3|PronType=Dem	1	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	8	punct	_	_
+4	hogy	hogy	SCONJ	_	_	8	mark	_	_
+5	egyik	egyik	DET	_	Definite=Def|PronType=Ind	6	det	_	_
+6	versenytársuk	versenytárs	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	8	nsubj	_	_
+7	főműsoridőben	főműsoridő	NOUN	_	Case=Ine|Number=Sing	8	obl	_	_
+8	sugárzott	sugárzik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp:obl	_	_
+9	riportot	riport	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
+10	a	a	DET	_	Definite=Def|PronType=Art	12	det	_	_
+11	csecsen	csecsen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	12	amod:att	_	_
+12	maffiózók	maffiózó	NOUN	_	Case=Nom|Number=Plur	13	nmod:att	_	_
+13	kegyetlenkedéseiről	kegyetlenkedés	NOUN	_	Case=Del|Number=Plur|Number[psor]=Sing|Person[psor]=3	8	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	amit	ami	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	18	obj	_	_
+16	a	a	DET	_	Definite=Def|PronType=Art	17	det	_	_
+17	médiahatóság	médiahatóság	NOUN	_	Case=Nom|Number=Sing	18	nsubj	_	_
+18	kifogásolt	ki+fogásol	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	acl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = dev-347
+# text = Még egy jövő évi költségvetési mérleggel sem tisztelte meg a kormány a képviselőházat, az államháztartási mérlegből kellene azt a képviselőknek kibogarászniuk.
+1	Még	még	ADV	_	_	8	advmod:tlocy	_	_
+2	egy	egy	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+3	jövő	jövő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	4	amod:att	_	_
+4	évi	évi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod:att	_	_
+5	költségvetési	költségvetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
+6	mérleggel	mérleg	NOUN	_	Case=Ins|Number=Sing	8	obl	_	_
+7	sem	sem	ADV	_	PronType=Neg	8	advmod	_	_
+8	tisztelte	tisztel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	meg	meg	PART	_	_	8	compound:preverb	_	_
+10	a	a	DET	_	Definite=Def|PronType=Art	11	det	_	_
+11	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+12	a	a	DET	_	Definite=Def|PronType=Art	13	det	_	_
+13	képviselőházat	képviselőház	NOUN	_	Case=Acc|Number=Sing	8	obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	az	az	DET	_	Definite=Def|PronType=Art	17	det	_	_
+16	államháztartási	államháztartási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	17	amod:att	_	_
+17	mérlegből	mérleg	NOUN	_	Case=Ela|Number=Sing	22	obl	_	_
+18	kellene	kell	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+19	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	22	obj	_	_
+20	a	a	DET	_	Definite=Def|PronType=Art	21	det	_	_
+21	képviselőknek	képviselő	NOUN	_	Case=Dat|Number=Plur	18	obl	_	_
+22	kibogarászniuk	kibogarász	VERB	_	Number=Plur|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	18	xcomp	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = dev-204
+# text = Miután a rászorulók a módosítás szerint más munkát nem vállalhatnak, ebből a pénzből kell 30 napig gazdálkodniuk.
+1	Miután	miután	SCONJ	_	_	10	mark	_	_
+2	a	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+3	rászorulók	rászoruló	NOUN	_	Case=Nom|Number=Plur	10	nsubj	_	_
+4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	módosítás	módosítás	NOUN	_	Case=Nom|Number=Sing	10	obl	_	_
+6	szerint	szerint	ADP	_	_	5	case	_	_
+7	más	más	DET	_	Definite=Ind|PronType=Ind	8	det	_	_
+8	munkát	munka	NOUN	_	Case=Acc|Number=Sing	10	obj	_	_
+9	nem	nem	ADV	_	PronType=Neg	10	advmod	_	_
+10	vállalhatnak	vállal	VERB	_	Definite=Ind|Mood=Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	ebből	ez	DET	_	Case=Ela|Number=Sing|Person=3|PronType=Dem	14	det	_	_
+13	a	a	DET	_	Definite=Def|PronType=Art	14	det	_	_
+14	pénzből	pénz	NOUN	_	Case=Ela|Number=Sing	18	obl	_	_
+15	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+16	30	30	NUM	_	Case=Nom|Number=Sing|NumType=Card	17	nummod	_	_
+17	napig	nap	NOUN	_	Case=Ter|Number=Sing	18	obl	_	_
+18	gazdálkodniuk	gazdálkodik	VERB	_	Number=Plur|Person=3|VerbForm=Inf|Voice=Act	15	xcomp	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = dev-253
+# text = A decentralizált privatizáció miatt sok kis cég jött létre, ám ezek nem tudták megfelelően kihasználni kapacitásaikat és egyre inkább lemaradtak a versenyben.
+1	A	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	decentralizált	decentralizált	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPast	3	amod:att	_	_
+3	privatizáció	privatizáció	NOUN	_	Case=Nom|Number=Sing	8	obl	_	_
+4	miatt	miatt	ADP	_	_	3	case	_	_
+5	sok	sok	DET	_	Definite=Ind|PronType=Ind	7	det	_	_
+6	kis	kis	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod:att	_	_
+7	cég	cég	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+8	jött	jön	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	létre	lét	NOUN	_	Case=Sbl|Number=Sing	8	compound:preverb	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	ám	ám	CCONJ	_	_	14	cc	_	_
+12	ezek	ez	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	14	nsubj	_	_
+13	nem	nem	ADV	_	PronType=Neg	14	advmod	_	_
+14	tudták	tud	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+15	megfelelően	megfelelő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	16	advmod:mode	_	_
+16	kihasználni	ki+használ	VERB	_	VerbForm=Inf|Voice=Act	14	xcomp	_	_
+17	kapacitásaikat	kapacitás	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person[psor]=3	16	obj	_	_
+18	és	és	CCONJ	_	_	21	cc	_	_
+19	egyre	egyre	ADV	_	_	20	advmod:mode	_	_
+20	inkább	inkább	ADV	_	_	21	advmod:mode	_	_
+21	lemaradtak	le+marad	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+22	a	a	DET	_	Definite=Def|PronType=Art	23	det	_	_
+23	versenyben	verseny	NOUN	_	Case=Ine|Number=Sing	21	obl	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = dev-99
+# text = A tűzoltóparancsnok szerint a 2/B terminál a legkorszerűbb tűzvédelmi rendszerekkel lett felszerelve.
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	tűzoltóparancsnok	tűzoltóparancsnok	NOUN	_	Case=Nom|Number=Sing	11	obl	_	_
+3	szerint	szerint	ADP	_	_	2	case	_	_
+4	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
+5	2/B	2/B	NOUN	_	Case=Nom|Number=Sing	6	nmod:att	_	_
+6	terminál	terminál	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
+7	a	a	DET	_	Definite=Def|PronType=Art	10	det	_	_
+8	legkorszerűbb	korszerű	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	10	amod:att	_	_
+9	tűzvédelmi	tűzvédelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	amod:att	_	_
+10	rendszerekkel	rendszer	NOUN	_	Case=Ins|Number=Plur	12	obl	_	_
+11	lett	lesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+12	felszerelve	felszerelve	ADV	_	VerbForm=Conv	11	advmod:mode	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = dev-29
+# text = Kérdésünkre Buza azt is elmondta: azért volt szükség az albizottság felállítására és munkájára, mert így lehetett a leggyorsabban elkezdeni a Békés megyei olajügyek tisztázását.
+1	Kérdésünkre	kérdés	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Plur|Person[psor]=1	5	obl	_	_
+2	Buza	Buza	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	5	obj	_	_
+4	is	is	CCONJ	_	_	3	cc	_	ToDo=cc-without-conj
+5	elmondta	el+mond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	8	punct	_	_
+7	azért	azért	ADV	_	PronType=Dem	8	advmod:mode	_	_
+8	volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp:obj	_	_
+9	szükség	szükség	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+10	az	az	DET	_	Definite=Def|PronType=Art	11	det	_	_
+11	albizottság	albizottság	NOUN	_	Case=Nom|Number=Sing	12	nmod:att	_	_
+12	felállítására	felállítás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obl	_	_
+13	és	és	CCONJ	_	_	14	cc	_	_
+14	munkájára	munka	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	mert	mert	SCONJ	_	_	18	mark	_	_
+17	így	így	ADV	_	PronType=Dem	18	advmod:mode	_	_
+18	lehetett	lehet	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+19	a	a	DET	_	Definite=Def|PronType=Art	20	det	_	_
+20	leggyorsabban	gyors	ADJ	_	Case=Ess|Degree=Sup|Number=Sing	21	advmod:mode	_	_
+21	elkezdeni	el+kezd	VERB	_	VerbForm=Inf|Voice=Act	18	xcomp	_	_
+22	a	a	DET	_	Definite=Def|PronType=Art	25	det	_	_
+23	Békés	Békés	PROPN	_	Case=Nom|Number=Sing	25	amod:att	_	_
+24	megyei	megyei	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	23	flat:name	_	_
+25	olajügyek	olajügy	NOUN	_	Case=Nom|Number=Plur	26	nmod:att	_	_
+26	tisztázását	tisztázás	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	21	obj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = dev-136
+# text = Ez azt jelenti, hogy az önkormányzati támogatásokat az elosztás szempontjából a feladatellátáshoz kapcsolja.
+1	Ez	ez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
+2	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	obj	_	_
+3	jelenti	jelent	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	14	punct	_	_
+5	hogy	hogy	SCONJ	_	_	14	mark	_	_
+6	az	az	DET	_	Definite=Def|PronType=Art	8	det	_	_
+7	önkormányzati	önkormányzati	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod:att	_	_
+8	támogatásokat	támogatás	NOUN	_	Case=Acc|Number=Plur	14	obj	_	_
+9	az	az	DET	_	Definite=Def|PronType=Art	10	det	_	_
+10	elosztás	elosztás	NOUN	_	Case=Nom|Number=Sing	11	nmod:att	_	_
+11	szempontjából	szempont	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	obl	_	_
+12	a	a	DET	_	Definite=Def|PronType=Art	13	det	_	_
+13	feladatellátáshoz	feladatellátás	NOUN	_	Case=All|Number=Sing	14	obl	_	_
+14	kapcsolja	kapcsol	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp:obj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = dev-12
+# text = Az ebből származó kár legalább több száz-millió forint, ami az államot terheli.
+1	Az	az	DET	_	Definite=Def|PronType=Art	4	det	_	_
+2	ebből	ez	PRON	_	Case=Ela|Number=Sing|Person=3|PronType=Dem	3	obl	_	_
+3	származó	származó	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	4	amod:att	_	_
+4	kár	kár	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+5	legalább	legalább	ADV	_	_	8	advmod:mode	_	_
+6	több	több	DET	_	Definite=Ind|PronType=Ind	8	det	_	_
+7	száz-millió	százmillió	NUM	_	Case=Nom|Number=Sing|NumType=Card	8	nummod	_	_
+8	forint	forint	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	13	nsubj	_	_
+11	az	az	DET	_	Definite=Def|PronType=Art	12	det	_	_
+12	államot	állam	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
+13	terheli	terhel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = dev-299
+# text = A miniszterelnök (aki az 1994-1998 közötti korszakot a magyar történelem legkorruptabb négy éveként szokta emlegetni) az új munkarend bevezettetésével kormányát s mindenekelőtt önmagát jelentős mértékben kivonta a parlamenti ellenőrzés alól.
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	miniszterelnök	miniszterelnök	NOUN	_	Case=Nom|Number=Sing	28	nsubj	_	_
+3	(	(	PUNCT	_	_	15	punct	_	SpaceAfter=No
+4	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	15	nsubj	_	_
+5	az	az	DET	_	Definite=Def|PronType=Art	8	det	_	_
+6	1994-1998	1994-1998	NUM	_	Case=Nom|Number=Sing|NumType=Card	7	amod:att	_	_
+7	közötti	közötti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod:att	_	_
+8	korszakot	korszak	NOUN	_	Case=Acc|Number=Sing	15	obj	_	_
+9	a	a	DET	_	Definite=Def|PronType=Art	11	det	_	_
+10	magyar	magyar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	amod:att	_	_
+11	történelem	történelem	NOUN	_	Case=Nom|Number=Sing	14	nmod:att	_	_
+12	legkorruptabb	korrupt	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	14	amod:att	_	_
+13	négy	négy	NUM	_	Case=Nom|Number=Sing|NumType=Card	14	amod:att	_	_
+14	éveként	év	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	16	obj	_	_
+15	szokta	szokik	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl	_	_
+16	emlegetni	emleget	VERB	_	VerbForm=Inf|Voice=Act	15	xcomp	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	15	punct	_	_
+18	az	az	DET	_	Definite=Def|PronType=Art	20	det	_	_
+19	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	20	amod:att	_	_
+20	munkarend	munkarend	NOUN	_	Case=Nom|Number=Sing	21	nmod:att	_	_
+21	bevezettetésével	bevezettetés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	28	obl	_	_
+22	kormányát	kormány	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	28	obj	_	_
+23	s	s	CCONJ	_	_	25	cc	_	_
+24	mindenekelőtt	mindenekelőtt	ADV	_	_	25	advmod:mode	_	_
+25	önmagát	önmaga	PRON	_	Case=Acc|Number=Sing|Person=3|Reflex=Yes	22	conj	_	_
+26	jelentős	jelentős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	27	amod:att	_	_
+27	mértékben	mérték	NOUN	_	Case=Ine|Number=Sing	28	obl	_	_
+28	kivonta	kivon	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+29	a	a	DET	_	Definite=Def|PronType=Art	31	det	_	_
+30	parlamenti	parlamenti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	31	amod:att	_	_
+31	ellenőrzés	ellenőrzés	NOUN	_	Case=Nom|Number=Sing	28	obl	_	_
+32	alól	alól	ADP	_	_	31	case	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	28	punct	_	_
+
+# sent_id = dev-359
+# text = Ám a kormány egyetlen adó csökkentését sem javasolja.
+1	Ám	ám	CCONJ	_	_	8	cc	_	_
+2	a	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+3	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
+4	egyetlen	egyetlen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod:att	_	_
+5	adó	adó	NOUN	_	Case=Nom|Number=Sing	6	nmod:att	_	_
+6	csökkentését	csökkentés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	_
+7	sem	sem	ADV	_	PronType=Neg	8	advmod	_	_
+8	javasolja	javasol	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = dev-158
+# text = A szakemberek szerint ugyan az nem vitatható, hogy vagyonvédelmi és biztonsági okokból sok helyen szükség van kamerákra, azonban sokszor semmi nem indokolja, hogy az alkalmazottakra fókuszáljon a rendszer.
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	szakemberek	szakember	NOUN	_	Case=Nom|Number=Plur	7	obl	_	_
+3	szerint	szerint	ADP	_	_	2	case	_	_
+4	ugyan	ugyan	ADV	_	_	7	mark	_	_
+5	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	_
+6	nem	nem	ADV	_	PronType=Neg	7	advmod	_	_
+7	vitatható	vitatható	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	17	punct	_	ToDo=punct-in-coord
+9	hogy	hogy	SCONJ	_	_	17	mark	_	_
+10	vagyonvédelmi	vagyonvédelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	13	amod:att	_	_
+11	és	és	CCONJ	_	_	12	cc	_	_
+12	biztonsági	biztonsági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	conj	_	_
+13	okokból	ok	NOUN	_	Case=Ela|Number=Plur	17	obl	_	_
+14	sok	sok	DET	_	Definite=Ind|PronType=Ind	15	det	_	_
+15	helyen	hely	NOUN	_	Case=Sup|Number=Sing	17	obl	_	_
+16	szükség	szükség	NOUN	_	Case=Nom|Number=Sing	17	nsubj	_	_
+17	van	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl	_	_
+18	kamerákra	kamera	NOUN	_	Case=Sbl|Number=Plur	17	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	17	punct	_	_
+20	azonban	azonban	CCONJ	_	_	24	cc	_	_
+21	sokszor	sokszor	ADV	_	_	24	advmod:mode	_	_
+22	semmi	semmi	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Neg	24	nsubj	_	_
+23	nem	nem	ADV	_	PronType=Neg	24	advmod	_	_
+24	indokolja	indokol	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	29	punct	_	_
+26	hogy	hogy	SCONJ	_	_	29	mark	_	_
+27	az	az	DET	_	Definite=Def|PronType=Art	28	det	_	_
+28	alkalmazottakra	alkalmazott	NOUN	_	Case=Sbl|Number=Plur	29	obl	_	_
+29	fókuszáljon	fókuszál	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	ccomp:obj	_	_
+30	a	a	DET	_	Definite=Def|PronType=Art	31	det	_	_
+31	rendszer	rendszer	NOUN	_	Case=Nom|Number=Sing	29	nsubj	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = dev-22
+# text = A legfőbb ügyész, Györgyi Kálmán meghallgatásával, kisgazda képviselők nélkül ma megkezdi munkáját az olajügyeket vizsgáló parlamenti testület.
+1	A	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	legfőbb	fő	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	3	amod:att	_	_
+3	ügyész	ügyész	NOUN	_	Case=Nom|Number=Sing	7	nmod:att	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Györgyi	Györgyi	PROPN	_	Case=Nom|Number=Sing	3	appos	_	_
+6	Kálmán	Kálmán	PROPN	_	Case=Nom|Number=Sing	5	flat:name	_	_
+7	meghallgatásával	meghallgatás	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	kisgazda	kisgazda	NOUN	_	Case=Nom|Number=Sing	10	nmod:att	_	_
+10	képviselők	képviselő	NOUN	_	Case=Nom|Number=Plur	13	obl	_	_
+11	nélkül	nélkül	ADP	_	_	10	case	_	_
+12	ma	ma	ADV	_	_	13	advmod:tlocy	_	_
+13	megkezdi	meg+kezd	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	munkáját	munka	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obj	_	_
+15	az	az	DET	_	Definite=Def|PronType=Art	16	det	_	_
+16	olajügyeket	olajügy	NOUN	_	Case=Acc|Number=Plur	17	obj	_	_
+17	vizsgáló	vizsgáló	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	19	amod:att	_	_
+18	parlamenti	parlamenti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod:att	_	_
+19	testület	testület	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = dev-143
+# text = A javaslat hosszú távra meghatározná a főváros főbb közúti, tömegközlekedési fejlesztéseit.
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	javaslat	javaslat	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+3	hosszú	hosszú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod:att	_	_
+4	távra	táv	NOUN	_	Case=Sbl|Number=Sing	5	obl	_	_
+5	meghatározná	meg+határoz	VERB	_	Definite=Def|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	a	a	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	főváros	főváros	NOUN	_	Case=Nom|Number=Sing	12	nmod:att	_	_
+8	főbb	fő	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	12	amod:att	_	_
+9	közúti	közúti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	12	amod:att	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	tömegközlekedési	tömegközlekedési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	12	amod:att	_	_
+12	fejlesztéseit	fejlesztés	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obj	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = dev-174
+# text = A legújabb elképzelések szerint a Fillér utcai iskolát a Fenyves utcaival vonnák össze.
+1	A	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	legújabb	új	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	3	amod:att	_	_
+3	elképzelések	elképzelés	NOUN	_	Case=Nom|Number=Plur	12	obl	_	_
+4	szerint	szerint	ADP	_	_	3	case	_	_
+5	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
+6	Fillér	Fillér	PROPN	_	Case=Nom|Number=Sing	8	amod:att	_	_
+7	utcai	utcai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	flat:name	_	_
+8	iskolát	iskola	NOUN	_	Case=Acc|Number=Sing	12	obj	_	_
+9	a	a	DET	_	Definite=Def|PronType=Art	10	det	_	_
+10	Fenyves	Fenyves	PROPN	_	Case=Nom|Number=Sing	12	obl	_	_
+11	utcaival	utcaival	ADJ	_	Case=Ins|Degree=Pos|Number=Sing	10	flat:name	_	_
+12	vonnák	von	VERB	_	Definite=Def|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	össze	össze	ADV	_	Degree=Pos	12	compound:preverb	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = dev-13
+# text = Lapunk úgy tudja, Katona Kálmán közlekedési miniszter tegnap este bekérette magához az LRI igazgatóját, de Kovács Péter nem ment el.
+1	Lapunk	lap	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	3	nsubj	_	_
+2	úgy	úgy	ADV	_	PronType=Dem	3	advmod:mode	_	_
+3	tudja	tud	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	11	punct	_	_
+5	Katona	Katona	PROPN	_	Case=Nom|Number=Sing	11	nsubj	_	_
+6	Kálmán	Kálmán	PROPN	_	Case=Nom|Number=Sing	5	flat:name	_	_
+7	közlekedési	közlekedési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod:att	_	_
+8	miniszter	miniszter	NOUN	_	Case=Nom|Number=Sing	5	appos	_	_
+9	tegnap	tegnap	ADV	_	_	10	advmod:mode	_	_
+10	este	este	ADV	_	_	11	advmod:tlocy	_	_
+11	bekérette	be+kér	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	3	ccomp:obl	_	_
+12	magához	maga	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	obl	_	_
+13	az	az	DET	_	Definite=Def|PronType=Art	14	det	_	_
+14	LRI	LRI	PROPN	_	Case=Nom|Number=Sing	15	nmod:att	_	_
+15	igazgatóját	igazgató	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	21	punct	_	_
+17	de	de	CCONJ	_	_	21	cc	_	_
+18	Kovács	Kovács	PROPN	_	Case=Nom|Number=Sing	21	nsubj	_	_
+19	Péter	Péter	PROPN	_	Case=Nom|Number=Sing	18	flat:name	_	_
+20	nem	nem	ADV	_	PronType=Neg	21	advmod	_	_
+21	ment	megy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
+22	el	el	ADV	_	_	21	compound:preverb	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = dev-289
+# text = Ezenfelül az árnövekedés nagysága csak a legritkább esetben azonos a nyersanyag árának emelkedésével.
+1	Ezenfelül	ezenfelül	ADV	_	PronType=Dem	9	advmod:mode	_	_
+2	az	az	DET	_	Definite=Def|PronType=Art	3	det	_	_
+3	árnövekedés	árnövekedés	NOUN	_	Case=Nom|Number=Sing	4	nmod:att	_	_
+4	nagysága	nagyság	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	_
+5	csak	csak	ADV	_	_	9	advmod:mode	_	_
+6	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
+7	legritkább	ritka	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	8	amod:att	_	_
+8	esetben	eset	NOUN	_	Case=Ine|Number=Sing	9	obl	_	_
+9	azonos	azonos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
+10	a	a	DET	_	Definite=Def|PronType=Art	11	det	_	_
+11	nyersanyag	nyersanyag	NOUN	_	Case=Nom|Number=Sing	12	nmod:att	_	_
+12	árának	ár	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	nmod:att	_	_
+13	emelkedésével	emelkedés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obl	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = dev-353
+# text = Akkor ugyanis azt állították, hogy a kormány az államháztartási hiánynak a bruttó nemzeti termék 2,5 százalékára csökkentését célozta meg az idei 4-ről (ami a Pénzügyminisztérium munkatársainak számításai szerint akár néhány tizeddel több is lehet), most viszont a számítások az Országgyűlés által elfogadott 2,5-3,5 százalékos intervallum felső, 3,5 százalékos határára készültek.
+1	Akkor	akkor	ADV	_	PronType=Dem	4	advmod:tlocy	_	_
+2	ugyanis	ugyanis	CCONJ	_	_	4	cc	_	_
+3	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	obj	_	_
+4	állították	állít	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	19	punct	_	ToDo=punct-in-coord
+6	hogy	hogy	SCONJ	_	_	19	mark	_	_
+7	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	19	nsubj	_	_
+9	az	az	DET	_	Definite=Def|PronType=Art	11	det	_	_
+10	államháztartási	államháztartási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	amod:att	_	_
+11	hiánynak	hiány	NOUN	_	Case=Gen|Number=Sing	18	nmod:att	_	_
+12	a	a	DET	_	Definite=Def|PronType=Art	15	det	_	_
+13	bruttó	bruttó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	15	amod:att	_	_
+14	nemzeti	nemzeti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	15	amod:att	_	_
+15	termék	termék	NOUN	_	Case=Nom|Number=Sing	17	nmod:att	_	_
+16	2,5	2,5	NUM	_	Case=Nom|Number=Sing|NumType=Frac	17	amod:att	_	_
+17	százalékára	százalék	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	18	nmod:obl	_	_
+18	csökkentését	csökkentés	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	19	obj	_	_
+19	célozta	céloz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+20	meg	meg	PART	_	_	19	compound:preverb	_	_
+21	az	az	DET	_	Definite=Def|PronType=Art	23	det	_	_
+22	idei	idei	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	23	amod:att	_	_
+23	4-ről	4	NUM	_	Case=Del|Number=Sing|NumType=Card	19	obl	_	_
+24	(	(	PUNCT	_	_	34	punct	_	SpaceAfter=No
+25	ami	ami	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	34	nsubj	_	_
+26	a	a	DET	_	Definite=Def|PronType=Art	27	det	_	_
+27	Pénzügyminisztérium	Pénzügyminisztérium	PROPN	_	Case=Nom|Number=Sing	28	nmod:att	_	_
+28	munkatársainak	munkatárs	NOUN	_	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	29	nmod:att	_	_
+29	számításai	számítás	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	34	nmod	_	ToDo=nmod
+30	szerint	szerint	ADP	_	_	29	case	_	_
+31	akár	akár	ADV	_	_	34	advmod:mode	_	_
+32	néhány	néhány	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Ind	33	amod:att	_	_
+33	tizeddel	tized	NUM	_	Case=Ins|Number=Sing|NumType=Frac	34	nmod:obl	_	_
+34	több	több	NUM	_	Case=Nom|Number=Sing|NumType=Card	19	acl	_	_
+35	is	is	CCONJ	_	_	34	cc	_	ToDo=cc-without-conj
+36	lehet	lehet	AUX	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	34	cop	_	SpaceAfter=No
+37	)	)	PUNCT	_	_	34	punct	_	SpaceAfter=No
+38	,	,	PUNCT	_	_	19	punct	_	_
+39	most	most	ADV	_	_	55	advmod:tlocy	_	_
+40	viszont	viszont	CCONJ	_	_	55	cc	_	_
+41	a	a	DET	_	Definite=Def|PronType=Art	42	det	_	_
+42	számítások	számítás	NOUN	_	Case=Nom|Number=Plur	55	nsubj	_	_
+43	az	az	DET	_	Definite=Def|PronType=Art	44	det	_	_
+44	Országgyűlés	Országgyűlés	PROPN	_	Case=Nom|Number=Sing	46	obl	_	_
+45	által	által	ADP	_	_	44	case	_	_
+46	elfogadott	elfogadott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	49	amod:att	_	_
+47	2,5-3,5	2,5-3,5	NUM	_	Case=Nom|Number=Sing|NumType=Frac	48	amod:att	_	_
+48	százalékos	százalékos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	49	amod:att	_	_
+49	intervallum	intervallum	NOUN	_	Case=Nom|Number=Sing	54	nmod:att	_	_
+50	felső	felső	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	54	amod:att	_	SpaceAfter=No
+51	,	,	PUNCT	_	_	50	punct	_	_
+52	3,5	3,5	NUM	_	Case=Nom|Number=Sing|NumType=Frac	53	amod:att	_	_
+53	százalékos	százalékos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	54	amod:att	_	_
+54	határára	határ	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	55	obl	_	_
+55	készültek	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No
+56	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = dev-343
+# text = Ám érdekes módon a kormány által az Országgyűlésnek eljuttatott tájékoztatón — amely már tartalmazza az állítólag pénteken szétosztott 13 milliárdot is — két nappal korábbi, augusztus 25-ei dátum szerepel.
+1	Ám	ám	CCONJ	_	_	30	cc	_	_
+2	érdekes	érdekes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	amod:att	_	_
+3	módon	mód	NOUN	_	Case=Sup|Number=Sing	30	obl	_	_
+4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	9	obl	_	_
+6	által	által	ADP	_	_	5	case	_	_
+7	az	az	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	Országgyűlésnek	Országgyűlés	PROPN	_	Case=Dat|Number=Sing	9	iobj	_	_
+9	eljuttatott	eljuttatott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	10	amod:att	_	_
+10	tájékoztatón	tájékoztató	NOUN	_	Case=Sup|Number=Sing	30	obl	_	_
+11	—	—	PUNCT	_	_	14	punct	_	_
+12	amely	amely	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	14	nsubj	_	_
+13	már	már	ADV	_	_	14	advmod:tlocy	_	_
+14	tartalmazza	tartalmaz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	_
+15	az	az	DET	_	Definite=Def|PronType=Art	20	det	_	_
+16	állítólag	állítólag	ADV	_	_	18	advmod:mode	_	_
+17	pénteken	péntek	NOUN	_	Case=Sup|Number=Sing	18	obl	_	_
+18	szétosztott	szétosztott	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	20	amod:att	_	_
+19	13	13	NUM	_	Case=Nom|Number=Sing|NumType=Card	20	compound	_	_
+20	milliárdot	milliárd	NUM	_	Case=Acc|Number=Sing|NumType=Card	14	obj	_	_
+21	is	is	CCONJ	_	_	14	cc	_	ToDo=cc-without-conj
+22	—	—	PUNCT	_	_	14	punct	_	_
+23	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	24	amod:att	_	_
+24	nappal	nap	NOUN	_	Case=Ins|Number=Sing	25	obl	_	_
+25	korábbi	korábbi	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	29	amod:att	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	augusztus	augusztus	NOUN	_	Case=Nom|Number=Sing	28	nmod:att	_	_
+28	25-ei	25-ei	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	25	conj	_	_
+29	dátum	dátum	NOUN	_	Case=Nom|Number=Sing	30	nsubj	_	_
+30	szerepel	szerepel	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	30	punct	_	_
+
+# sent_id = dev-373
+# text = Ennek értelmében bűnüldözési és bűnmegelőzési érdekből a határőrség a határátlépők adatait visszatérésük, illetve távozásuk után legfeljebb 90 napig kezelheti.
+1	Ennek	ez	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Dem	2	nmod:att	_	_
+2	értelmében	értelem	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	20	obl	_	_
+3	bűnüldözési	bűnüldözési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
+4	és	és	CCONJ	_	_	5	cc	_	_
+5	bűnmegelőzési	bűnmegelőzési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	conj	_	_
+6	érdekből	érdek	NOUN	_	Case=Ela|Number=Sing	20	obl	_	_
+7	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	határőrség	határőrség	NOUN	_	Case=Nom|Number=Sing	20	nsubj	_	_
+9	a	a	DET	_	Definite=Def|PronType=Art	10	det	_	_
+10	határátlépők	határátlépő	NOUN	_	Case=Nom|Number=Plur	11	nmod:att	_	_
+11	adatait	adat	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	20	obj	_	_
+12	visszatérésük	visszatérés	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	20	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	illetve	illetve	CCONJ	_	_	15	cc	_	_
+15	távozásuk	távozás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	12	conj	_	_
+16	után	után	ADP	_	_	12	case	_	_
+17	legfeljebb	legfeljebb	ADV	_	_	19	advmod:mode	_	_
+18	90	90	NUM	_	Case=Nom|Number=Sing|NumType=Card	19	amod:att	_	_
+19	napig	nap	NOUN	_	Case=Ter|Number=Sing	20	obl	_	_
+20	kezelheti	kezelhet	VERB	_	Definite=Def|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = dev-4
+# text = Az iraki vezetés azért függesztette fel a nyersanyag-kivitelt, mert az ENSZ Biztonsági Tanácsa múlt hét pénteki ülésén úgy határozott, hogy a szokásos hat hónap helyett csak két hétre hosszabbítja meg az iraki kereskedelmet szabályozó, úgynevezett "olajért élelmiszert" programot.
+1	Az	az	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	iraki	iraki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	amod:att	_	_
+3	vezetés	vezetés	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	_
+4	azért	azért	ADV	_	PronType=Dem	5	advmod:mode	_	_
+5	függesztette	függeszt	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	fel	fel	ADV	_	Degree=Pos	5	compound:preverb	_	_
+7	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	nyersanyag-kivitelt	nyersanyagkivitel	NOUN	_	Case=Acc|Number=Sing	5	obj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	20	punct	_	_
+10	mert	mert	SCONJ	_	_	20	mark	_	_
+11	az	az	DET	_	Definite=Def|PronType=Art	14	det	_	_
+12	ENSZ	ENSZ	PROPN	_	Case=Nom|Number=Sing	13	nmod:att	_	_
+13	Biztonsági	Biztonsági	PROPN	_	Case=Nom|Number=Sing	20	nsubj	_	_
+14	Tanácsa	Tanácsa	PROPN	_	Case=Nom|Number=Sing	13	flat:name	_	_
+15	múlt	múlt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	16	amod:att	_	_
+16	hét	hét	NOUN	_	Case=Nom|Number=Sing	17	nmod:att	_	_
+17	pénteki	pénteki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	18	amod:att	_	_
+18	ülésén	ülés	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	20	obl	_	_
+19	úgy	úgy	ADV	_	PronType=Dem	20	advmod:mode	_	_
+20	határozott	határoz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	31	punct	_	_
+22	hogy	hogy	SCONJ	_	_	31	mark	_	_
+23	a	a	DET	_	Definite=Def|PronType=Art	26	det	_	_
+24	szokásos	szokásos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	26	amod:att	_	_
+25	hat	hat	NUM	_	Case=Nom|Number=Sing|NumType=Card	26	nummod	_	_
+26	hónap	hónap	NOUN	_	Case=Nom|Number=Sing	31	obl	_	_
+27	helyett	helyett	ADP	_	_	26	case	_	_
+28	csak	csak	ADV	_	_	30	advmod:mode	_	_
+29	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	30	nummod	_	_
+30	hétre	hét	NOUN	_	Case=Sbl|Number=Sing	31	obl	_	_
+31	hosszabbítja	hosszabbít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	ccomp:obl	_	_
+32	meg	meg	PART	_	_	31	compound:preverb	_	_
+33	az	az	DET	_	Definite=Def|PronType=Art	35	det	_	_
+34	iraki	iraki	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	35	amod:att	_	_
+35	kereskedelmet	kereskedelem	NOUN	_	Case=Acc|Number=Sing	36	obj	_	_
+36	szabályozó	szabályozó	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	43	amod:att	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	36	punct	_	_
+38	úgynevezett	úgynevezett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	41	amod:att	_	_
+39	"	"	PUNCT	_	_	41	punct	_	SpaceAfter=No
+40	olajért	olaj	NOUN	_	Case=Cau|Number=Sing	41	nmod:obl	_	_
+41	élelmiszert	élelmiszer	NOUN	_	Case=Acc|Number=Sing	43	nmod:att	_	SpaceAfter=No
+42	"	"	PUNCT	_	_	41	punct	_	_
+43	programot	program	NOUN	_	Case=Acc|Number=Sing	31	obj	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = dev-154
+# text = Emellett cél olyan nagy tömegközlekedési (intermodális) csomópontok kialakítása, ahol az utas vagy az autóját az olcsó és őrzött parkolóban hagyó autós a központ felé gyorsvillamossal, kifelé vasúttal, oldalirányban pedig villamossal, busszal közlekedhet.
+1	Emellett	emellett	ADV	_	PronType=Dem	10	advmod:mode	_	_
+2	cél	cél	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+3	olyan	olyan	DET	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	9	det	_	_
+4	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod:att	_	_
+5	tömegközlekedési	tömegközlekedési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	9	amod:att	_	_
+6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	intermodális	intermodális	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	9	parataxis	_	SpaceAfter=No
+8	)	)	PUNCT	_	_	7	punct	_	_
+9	csomópontok	csomópont	NOUN	_	Case=Nom|Number=Plur	10	nmod:att	_	_
+10	kialakítása	kialakítás	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	38	punct	_	_
+12	ahol	ahol	ADV	_	PronType=Rel	14	advmod:locy	_	_
+13	az	az	DET	_	Definite=Def|PronType=Art	14	det	_	_
+14	utas	utas	NOUN	_	Case=Nom|Number=Sing	38	nsubj	_	_
+15	vagy	vagy	CCONJ	_	_	24	cc	_	_
+16	az	az	DET	_	Definite=Def|PronType=Art	17	det	_	_
+17	autóját	autó	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	23	obj	_	_
+18	az	az	DET	_	Definite=Def|PronType=Art	22	det	_	_
+19	olcsó	olcsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	22	amod:att	_	_
+20	és	és	CCONJ	_	_	21	cc	_	_
+21	őrzött	őrzött	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPast	19	conj	_	_
+22	parkolóban	parkoló	NOUN	_	Case=Ine|Number=Sing	23	obl	_	_
+23	hagyó	hagyó	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	24	amod:att	_	_
+24	autós	autós	NOUN	_	Case=Nom|Number=Sing	14	conj	_	_
+25	a	a	DET	_	Definite=Def|PronType=Art	26	det	_	_
+26	központ	központ	NOUN	_	Case=Nom|Number=Sing	38	obl	_	_
+27	felé	felé	ADP	_	_	26	case	_	_
+28	gyorsvillamossal	gyorsvillamos	NOUN	_	Case=Ins|Number=Sing	38	obl	_	SpaceAfter=No
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	kifelé	kifelé	ADV	_	_	38	advmod:to	_	_
+31	vasúttal	vasút	NOUN	_	Case=Ins|Number=Sing	38	obl	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	31	punct	_	_
+33	oldalirányban	oldalirány	NOUN	_	Case=Ine|Number=Sing	38	obl	_	_
+34	pedig	pedig	CCONJ	_	_	38	cc	_	_
+35	villamossal	villamos	NOUN	_	Case=Ins|Number=Sing	38	obl	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	busszal	busz	NOUN	_	Case=Ins|Number=Sing	35	conj	_	_
+38	közlekedhet	közlekedik	VERB	_	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl	_	SpaceAfter=No
+39	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = dev-125
+# text = Varga László elmondta: a kormány javaslatában azt ígéri, hogy a közszféra egész területén 8,25 százalékos bérfejlesztést valósít meg, s ugyanennyivel növeli a pótlékalapot is.
+1	Varga	Varga	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	László	László	PROPN	_	Case=Nom|Number=Sing	1	flat:name	_	_
+3	elmondta	el+mond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	_	_	9	punct	_	_
+5	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+7	javaslatában	javaslat	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obl	_	_
+8	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	obj	_	_
+9	ígéri	ígér	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	19	punct	_	_
+11	hogy	hogy	SCONJ	_	_	19	mark	_	_
+12	a	a	DET	_	Definite=Def|PronType=Art	13	det	_	_
+13	közszféra	közszféra	NOUN	_	Case=Nom|Number=Sing	15	nmod:att	_	_
+14	egész	egész	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	15	amod:att	_	_
+15	területén	terület	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	19	obl	_	_
+16	8,25	8,25	NUM	_	Case=Nom|Number=Sing|NumType=Frac	17	nummod	_	_
+17	százalékos	százalékos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	18	amod:att	_	_
+18	bérfejlesztést	bérfejlesztés	NOUN	_	Case=Acc|Number=Sing	19	obj	_	_
+19	valósít	valósít	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp:obj	_	_
+20	meg	meg	PART	_	_	19	compound:preverb	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	s	s	CCONJ	_	_	24	cc	_	_
+23	ugyanennyivel	ugyanennyi	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Dem	24	obl	_	_
+24	növeli	növel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	_
+25	a	a	DET	_	Definite=Def|PronType=Art	26	det	_	_
+26	pótlékalapot	pótlékalap	NOUN	_	Case=Acc|Number=Sing	24	obj	_	_
+27	is	is	CCONJ	_	_	26	cc	_	SpaceAfter=No|ToDo=cc-without-conj
+28	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = dev-198
+# text = Mindkét bizottság elfogadta a javaslatot, parlamenti vitára alkalmasnak találta.
+1	Mindkét	mindkét	DET	_	Definite=Def|PronType=Ind	2	det	_	_
+2	bizottság	bizottság	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+3	elfogadta	el+fogad	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	javaslatot	javaslat	NOUN	_	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	parlamenti	parlamenti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod:att	_	_
+8	vitára	vita	NOUN	_	Case=Sbl|Number=Sing	9	obl	_	_
+9	alkalmasnak	alkalmas	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	10	obl	_	_
+10	találta	talál	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = dev-187
+# text = Ezek nem kerülnek ki az önkormányzat tulajdonából.
+1	Ezek	ez	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Dem	3	nsubj	_	_
+2	nem	nem	ADV	_	PronType=Neg	3	advmod	_	_
+3	kerülnek	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ki	ki	ADV	_	Degree=Pos	3	compound:preverb	_	_
+5	az	az	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	önkormányzat	önkormányzat	NOUN	_	Case=Nom|Number=Sing	7	nmod:att	_	_
+7	tulajdonából	tulajdon	NOUN	_	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = dev-335
+# text = A felelős kormánynak pedig először is meg kell teremtenie a feltételeket ahhoz, hogy a képviselők dönthessenek ebben a kérdésben, azután pedig alá kell vetnie magát ennek a döntésnek.
+1	A	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	felelős	felelős	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	amod:att	_	_
+3	kormánynak	kormány	NOUN	_	Case=Dat|Number=Sing	8	iobj	_	_
+4	pedig	pedig	CCONJ	_	_	8	cc	_	_
+5	először	először	ADV	_	Degree=Pos	9	advmod:tlocy	_	_
+6	is	is	ADV	_	_	9	advmod:mode	_	_
+7	meg	meg	PART	_	_	9	compound:preverb	_	_
+8	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	teremtenie	teremt	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+10	a	a	DET	_	Definite=Def|PronType=Art	11	det	_	_
+11	feltételeket	feltétel	NOUN	_	Case=Acc|Number=Plur	9	obj	_	_
+12	ahhoz	az	PRON	_	Case=All|Number=Sing|Person=3|PronType=Dem	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	17	punct	_	ToDo=punct-in-coord
+14	hogy	hogy	SCONJ	_	_	17	mark	_	_
+15	a	a	DET	_	Definite=Def|PronType=Art	16	det	_	_
+16	képviselők	képviselő	NOUN	_	Case=Nom|Number=Plur	17	nsubj	_	_
+17	dönthessenek	dönthet	VERB	_	Definite=Ind|Mood=Imp,Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp:obl	_	_
+18	ebben	ez	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Dem	20	nmod:obl	_	_
+19	a	a	DET	_	Definite=Def|PronType=Art	20	det	_	_
+20	kérdésben	kérdés	NOUN	_	Case=Ine|Number=Sing	17	obl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	17	punct	_	_
+22	azután	azután	CCONJ	_	_	25	cc	_	_
+23	pedig	pedig	CCONJ	_	_	25	cc	_	_
+24	alá	alá	ADV	_	Degree=Pos	26	compound:preverb	_	_
+25	kell	kell	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+26	vetnie	vet	VERB	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	25	xcomp	_	_
+27	magát	maga	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	26	obj	_	_
+28	ennek	ez	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Dem	30	nmod:obl	_	_
+29	a	a	DET	_	Definite=Def|PronType=Art	30	det	_	_
+30	döntésnek	döntés	NOUN	_	Case=Dat|Number=Sing	26	obl	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = dev-124
+# text = "A költségvetési javaslat ilyen értelmű beterjesztésével a kormány megsérti a korábban elfogadott közoktatási törvényt" — jelentette ki az érdekvédelmi szervezet titkára.
+1	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+2	A	a	DET	_	Definite=Def|PronType=Art	4	det	_	_
+3	költségvetési	költségvetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod:att	_	_
+4	javaslat	javaslat	NOUN	_	Case=Nom|Number=Sing	7	nmod:att	_	_
+5	ilyen	ilyen	DET	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	6	det	_	_
+6	értelmű	értelmű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod:att	_	_
+7	beterjesztésével	beterjesztés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl	_	_
+8	a	a	DET	_	Definite=Def|PronType=Art	9	det	_	_
+9	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+10	megsérti	meg+sért	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	ccomp:obj	_	_
+11	a	a	DET	_	Definite=Def|PronType=Art	15	det	_	_
+12	korábban	korán	ADV	_	_	13	advmod:tlocy	_	_
+13	elfogadott	el+fogadott	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPast	15	amod:att	_	_
+14	közoktatási	közoktatási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	15	amod:att	_	_
+15	törvényt	törvény	NOUN	_	Case=Acc|Number=Sing	10	obj	_	SpaceAfter=No
+16	"	"	PUNCT	_	_	10	punct	_	_
+17	—	—	PUNCT	_	_	10	punct	_	_
+18	jelentette	jelent	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+19	ki	ki	ADV	_	Degree=Pos	18	compound:preverb	_	_
+20	az	az	DET	_	Definite=Def|PronType=Art	22	det	_	_
+21	érdekvédelmi	érdekvédelmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	22	amod:att	_	_
+22	szervezet	szervezet	NOUN	_	Case=Nom|Number=Sing	23	nmod:att	_	_
+23	titkára	titkár	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	18	nsubj	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = dev-31
+# text = Elképzelhető, hogy rövid időn belül hivatalos állásfoglalás is készül arról: készüljön részletes törvényi szabályozás elhelyezésükről.
+1	Elképzelhető	elképzelhető	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	10	punct	_	_
+3	hogy	hogy	SCONJ	_	_	10	mark	_	_
+4	rövid	rövid	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod:att	_	_
+5	időn	idő	NOUN	_	Case=Sup|Number=Sing	10	obl	_	_
+6	belül	belül	ADP	_	_	5	case	_	_
+7	hivatalos	hivatalos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod:att	_	_
+8	állásfoglalás	állásfoglalás	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+9	is	is	CCONJ	_	_	8	cc	_	ToDo=cc-without-conj
+10	készül	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	_
+11	arról	az	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	10	obl	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	13	punct	_	_
+13	készüljön	készül	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp:obl	_	_
+14	részletes	részletes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	16	amod:att	_	_
+15	törvényi	törvényi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	16	amod:att	_	_
+16	szabályozás	szabályozás	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	_
+17	elhelyezésükről	elhelyezés	NOUN	_	Case=Del|Number=Sing|Number[psor]=Plur|Person[psor]=3	13	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = dev-354
+# text = Ugyanakkor Burány Sándor, az MSZP frakcióvezető-helyettese egyenesen egy újabb megszorító Járai-csomagot vélt kiolvasni a 2000-re szóló költségvetési kormányjavaslatokból.
+1	Ugyanakkor	ugyanakkor	ADV	_	PronType=Dem	13	advmod:mode	_	_
+2	Burány	Burány	PROPN	_	Case=Nom|Number=Sing	13	nsubj	_	_
+3	Sándor	Sándor	PROPN	_	Case=Nom|Number=Sing	2	flat:name	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	az	az	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	MSZP	MSZP	PROPN	_	Case=Nom|Number=Sing	7	nmod:att	_	_
+7	frakcióvezető-helyettese	frakcióvezető-helyettes	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	appos	_	_
+8	egyenesen	egyenesen	ADV	_	_	14	advmod:mode	_	_
+9	egy	egy	DET	_	Definite=Ind|PronType=Art	12	det	_	_
+10	újabb	új	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	12	amod:att	_	_
+11	megszorító	megszorító	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	12	amod:att	_	_
+12	Járai-csomagot	Járai-csomag	NOUN	_	Case=Acc|Number=Sing	14	obj	_	_
+13	vélt	vél	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+14	kiolvasni	kiolvas	VERB	_	VerbForm=Inf|Voice=Act	13	xcomp	_	_
+15	a	a	DET	_	Definite=Def|PronType=Art	19	det	_	_
+16	2000-re	2000	NUM	_	Case=Sbl|Number=Sing|NumType=Card	17	obl	_	_
+17	szóló	szóló	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	18	amod:att	_	_
+18	költségvetési	költségvetési	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod:att	_	_
+19	kormányjavaslatokból	kormányjavaslat	NOUN	_	Case=Ela|Number=Plur	14	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = dev-18
+# text = Ezt este visszavonta a cég.
+1	Ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	obj	_	_
+2	este	este	ADV	_	_	3	advmod:tlocy	_	_
+3	visszavonta	vissza+von	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	cég	cég	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = dev-137
+# text = A kormány a közoktatási normatívák emelésével azt a szándékát fejezte ki, hogy az oktatás ebben a rangsorban kerüljön az első helyre.
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	kormány	kormány	NOUN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+3	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
+4	közoktatási	közoktatási	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	5	amod:att	_	_
+5	normatívák	normatíva	NOUN	_	Case=Nom|Number=Plur	6	nmod:att	_	_
+6	emelésével	emelés	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl	_	_
+7	azt	az	DET	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	det	_	_
+8	a	a	DET	_	Definite=Def|PronType=Art	9	det	_	_
+9	szándékát	szándék	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obj	_	_
+10	fejezte	fejez	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	ki	ki	ADV	_	Degree=Pos	10	compound:preverb	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	19	punct	_	_
+13	hogy	hogy	SCONJ	_	_	19	mark	_	_
+14	az	az	DET	_	Definite=Def|PronType=Art	15	det	_	_
+15	oktatás	oktatás	NOUN	_	Case=Nom|Number=Sing	19	nsubj	_	_
+16	ebben	ez	DET	_	Case=Ine|Number=Sing|Person=3|PronType=Dem	18	det	_	_
+17	a	a	DET	_	Definite=Def|PronType=Art	18	det	_	_
+18	rangsorban	rangsor	NOUN	_	Case=Ine|Number=Sing	19	obl	_	_
+19	kerüljön	kerül	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp:obj	_	_
+20	az	az	DET	_	Definite=Def|PronType=Art	22	det	_	_
+21	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	22	amod:att	_	_
+22	helyre	hely	NOUN	_	Case=Sbl|Number=Sing	19	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = dev-205
+# text = A felszólalásokban kifogásolták a bevezetés idejét is.
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	felszólalásokban	felszólalás	NOUN	_	Case=Ine|Number=Plur	3	nsubj	_	_
+3	kifogásolták	ki+fogásol	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
+5	bevezetés	bevezetés	NOUN	_	Case=Nom|Number=Sing	6	nmod:att	_	_
+6	idejét	idő	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
+7	is	is	CCONJ	_	_	6	cc	_	SpaceAfter=No|ToDo=cc-without-conj
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = dev-252
+# text = A koncentráció több tényező együttes hatására ment végbe.
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	koncentráció	koncentráció	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	_
+3	több	több	DET	_	Definite=Ind|PronType=Ind	4	det	_	_
+4	tényező	tényező	NOUN	_	Case=Nom|Number=Sing	6	nmod:att	_	_
+5	együttes	együttes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
+6	hatására	hatás	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
+7	ment	megy	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+8	végbe	vég	NOUN	_	Case=Ill|Number=Sing	7	compound:preverb	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = dev-209
+# text = Baán László, a Nemzeti Kulturális Örökség Minisztériumának helyettes államtitkára lapunknak elmondta, hogy az állam kétmilliárd forintot szán a megkezdett létesítmény befejezésére.
+1	Baán	Baán	PROPN	_	Case=Nom|Number=Sing	12	nsubj	_	_
+2	László	László	PROPN	_	Case=Nom|Number=Sing	1	flat:name	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	10	punct	_	_
+4	a	a	DET	_	Definite=Def|PronType=Art	7	det	_	_
+5	Nemzeti	Nemzeti	PROPN	_	Case=Nom|Number=Sing	10	nmod:att	_	_
+6	Kulturális	Kulturális	PROPN	_	Case=Nom|Number=Sing	5	flat:name	_	_
+7	Örökség	Örökség	PROPN	_	Case=Nom|Number=Sing	5	flat:name	_	_
+8	Minisztériumának	Minisztériuma	PROPN	_	Case=Gen|Number=Sing	5	flat:name	_	_
+9	helyettes	helyettes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	amod:att	_	_
+10	államtitkára	államtitkár	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	appos	_	_
+11	lapunknak	lap	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=1	12	iobj	_	_
+12	elmondta	el+mond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	hogy	hogy	SCONJ	_	_	19	mark	_	_
+15	az	az	DET	_	Definite=Def|PronType=Art	16	det	_	_
+16	állam	állam	NOUN	_	Case=Nom|Number=Sing	19	nsubj	_	_
+17	kétmilliárd	kétmilliárd	NUM	_	Case=Nom|Number=Sing|NumType=Card	18	nummod	_	_
+18	forintot	forint	NOUN	_	Case=Acc|Number=Sing	19	obj	_	_
+19	szán	szán	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp:obj	_	_
+20	a	a	DET	_	Definite=Def|PronType=Art	22	det	_	_
+21	megkezdett	megkezdett	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPast	22	amod:att	_	_
+22	létesítmény	létesítmény	NOUN	_	Case=Nom|Number=Sing	23	nmod:att	_	_
+23	befejezésére	befejezés	NOUN	_	Case=Sbl|Number=Sing|Number[psor]=Sing|Person[psor]=3	19	obl	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = dev-190
+# text = Horváth Zsolt (Fidesz) hangsúlyozta: céljuk az, hogy a három érintett praxis egy-egy körzethez, egy-egy területi ellátáshoz kötődjön.
+1	Horváth	Horváth	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+2	Zsolt	Zsolt	PROPN	_	Case=Nom|Number=Sing	1	flat:name	_	_
+3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	Fidesz	Fidesz	PROPN	_	Case=Nom|Number=Sing	1	appos	_	SpaceAfter=No
+5	)	)	PUNCT	_	_	4	punct	_	_
+6	hangsúlyozta	hangsúlyoz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+7	:	:	PUNCT	_	_	8	punct	_	_
+8	céljuk	cél	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	6	parataxis	_	_
+9	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	22	punct	_	_
+11	hogy	hogy	SCONJ	_	_	22	mark	_	_
+12	a	a	DET	_	Definite=Def|PronType=Art	15	det	_	_
+13	három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	15	nummod	_	_
+14	érintett	érintett	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	15	amod:att	_	_
+15	praxis	praxis	NOUN	_	Case=Nom|Number=Sing	22	nsubj	_	_
+16	egy-egy	egy-egy	NUM	_	Case=Nom|Number=Sing|NumType=Dist	17	nummod	_	_
+17	körzethez	körzet	NOUN	_	Case=All|Number=Sing	22	obl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19	egy-egy	egy-egy	NUM	_	Case=Nom|Number=Sing|NumType=Dist	21	nummod	_	_
+20	területi	területi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	21	amod:att	_	_
+21	ellátáshoz	ellátás	NOUN	_	Case=All|Number=Sing	17	conj	_	_
+22	kötődjön	kötődik	VERB	_	Definite=Ind|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = dev-395
+# text = A bank idei első féléves mérlege 973 millió forint hiányt mutatott, így 4,2 milliárd forint volt a saját tőkéje.
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	bank	bank	NOUN	_	Case=Nom|Number=Sing	6	nmod:att	_	_
+3	idei	idei	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
+4	első	első	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	5	amod:att	_	_
+5	féléves	féléves	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
+6	mérlege	mérleg	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	nsubj	_	_
+7	973	973	NUM	_	Case=Nom|Number=Sing|NumType=Card	8	compound	_	_
+8	millió	millió	NUM	_	Case=Nom|Number=Sing|NumType=Card	9	amod:att	_	_
+9	forint	forint	NOUN	_	Case=Nom|Number=Sing	10	nmod:att	_	_
+10	hiányt	hiány	NOUN	_	Case=Acc|Number=Sing	11	obj	_	_
+11	mutatott	mutat	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	így	így	CCONJ	_	_	16	cc	_	_
+14	4,2	4,2	NUM	_	Case=Nom|Number=Sing|NumType=Frac	15	compound	_	_
+15	milliárd	milliárd	NUM	_	Case=Nom|Number=Sing|NumType=Card	16	amod:att	_	_
+16	forint	forint	NOUN	_	Case=Nom|Number=Sing	11	conj	_	_
+17	volt	van	AUX	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
+18	a	a	DET	_	Definite=Def|PronType=Art	20	det	_	_
+19	saját	saját	PRON	_	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	amod:att	_	_
+20	tőkéje	tőke	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	16	nsubj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = dev-341
+# text = A múlt keddi kormányülést követően Járai Zsigmond pénzügyminiszter például arról tájékoztatta a közvéleményt, hogy döntöttek a költségvetés fő számairól; "a játéktér még legfeljebb 10 milliárd forint" — mondta.
+1	A	a	DET	_	Definite=Def|PronType=Art	4	det	_	_
+2	múlt	múlt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	amod:att	_	_
+3	keddi	keddi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod:att	_	_
+4	kormányülést	kormányülés	NOUN	_	Case=Acc|Number=Sing	5	obj	_	_
+5	követően	követő	ADJ	_	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	11	obl	_	_
+6	Járai	Járai	PROPN	_	Case=Nom|Number=Sing	8	nmod:att	_	_
+7	Zsigmond	Zsigmond	PROPN	_	Case=Nom|Number=Sing	6	flat:name	_	_
+8	pénzügyminiszter	pénzügyminiszter	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	_
+9	például	például	ADV	_	_	11	advmod:mode	_	_
+10	arról	az	PRON	_	Case=Del|Number=Sing|Person=3|PronType=Dem	11	obl	_	_
+11	tájékoztatta	tájékoztat	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
+12	a	a	DET	_	Definite=Def|PronType=Art	13	det	_	_
+13	közvéleményt	közvélemény	NOUN	_	Case=Acc|Number=Sing	11	obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	ToDo=punct-in-coord
+15	hogy	hogy	SCONJ	_	_	16	mark	_	_
+16	döntöttek	dönt	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	ccomp:obl	_	_
+17	a	a	DET	_	Definite=Def|PronType=Art	18	det	_	_
+18	költségvetés	költségvetés	NOUN	_	Case=Nom|Number=Sing	20	nmod:att	_	_
+19	fő	fő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	20	amod:att	_	_
+20	számairól	szám	NOUN	_	Case=Del|Number=Plur|Number[psor]=Sing|Person[psor]=3	16	obl	_	SpaceAfter=No
+21	;	;	PUNCT	_	_	16	punct	_	_
+22	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
+23	a	a	DET	_	Definite=Def|PronType=Art	24	det	_	_
+24	játéktér	játéktér	NOUN	_	Case=Nom|Number=Sing	29	nsubj	_	_
+25	még	még	ADV	_	_	29	advmod:mode	_	_
+26	legfeljebb	legfeljebb	ADV	_	_	29	advmod:mode	_	_
+27	10	10	NUM	_	Case=Nom|Number=Sing|NumType=Card	28	compound	_	_
+28	milliárd	milliárd	NUM	_	Case=Nom|Number=Sing|NumType=Card	29	amod:att	_	_
+29	forint	forint	NOUN	_	Case=Nom|Number=Sing	32	ccomp	_	SpaceAfter=No
+30	"	"	PUNCT	_	_	29	punct	_	_
+31	—	—	PUNCT	_	_	29	punct	_	_
+32	mondta	mond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = dev-342
+# text = Ám pénteken — legalábbis Járai Zsigmond a Népszabadság múlt szombati számában írtak szerint ezt állította — a kormányfő még gyorsan újabb 13 milliárd forintot osztott szét a kormánynál szűkebb körű kabinet ülésén, amelynek a hatásköréről egyébként nyilvános jogszabály nem rendelkezik.
+1	Ám	ám	CCONJ	_	_	25	cc	_	_
+2	pénteken	péntek	NOUN	_	Case=Sup|Number=Sing	25	obl	_	_
+3	—	—	PUNCT	_	_	15	punct	_	_
+4	legalábbis	legalábbis	ADV	_	_	15	advmod:mode	_	_
+5	Járai	Járai	PROPN	_	Case=Nom|Number=Sing	15	nsubj	_	_
+6	Zsigmond	Zsigmond	PROPN	_	Case=Nom|Number=Sing	5	flat:name	_	_
+7	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	Népszabadság	Népszabadság	PROPN	_	Case=Nom|Number=Sing	11	nmod:att	_	_
+9	múlt	múlt	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	amod:att	_	_
+10	szombati	szombati	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	amod:att	_	_
+11	számában	szám	NOUN	_	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nmod:obl	_	_
+12	írtak	írt	NOUN	_	Case=Nom|Number=Plur	15	obl	_	_
+13	szerint	szerint	ADP	_	_	12	case	_	_
+14	ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	15	obj	_	_
+15	állította	állít	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	25	parataxis	_	_
+16	—	—	PUNCT	_	_	15	punct	_	_
+17	a	a	DET	_	Definite=Def|PronType=Art	18	det	_	_
+18	kormányfő	kormányfő	NOUN	_	Case=Nom|Number=Sing	25	nsubj	_	_
+19	még	még	ADV	_	_	25	advmod:tlocy	_	_
+20	gyorsan	gyors	ADJ	_	Case=Ess|Degree=Pos|Number=Sing	25	obl	_	_
+21	újabb	új	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	24	amod:att	_	_
+22	13	13	NUM	_	Case=Nom|Number=Sing|NumType=Card	23	compound	_	_
+23	milliárd	milliárd	NUM	_	Case=Nom|Number=Sing|NumType=Card	24	amod:att	_	_
+24	forintot	forint	NOUN	_	Case=Acc|Number=Sing	25	obj	_	_
+25	osztott	oszt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+26	szét	szét	ADV	_	_	25	compound:preverb	_	_
+27	a	a	DET	_	Definite=Def|PronType=Art	28	det	_	_
+28	kormánynál	kormány	NOUN	_	Case=Ade|Number=Sing	29	obl	_	_
+29	szűkebb	szűk	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	30	amod:att	_	_
+30	körű	körű	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	31	amod:att	_	_
+31	kabinet	kabinet	NOUN	_	Case=Nom|Number=Sing	32	nmod:att	_	_
+32	ülésén	ülés	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	25	obl	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	41	punct	_	_
+34	amelynek	amely	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Rel	36	nmod:att	_	_
+35	a	a	DET	_	Definite=Def|PronType=Art	36	det	_	_
+36	hatásköréről	hatáskör	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	41	obl	_	_
+37	egyébként	egyébként	ADV	_	_	41	advmod:mode	_	_
+38	nyilvános	nyilvános	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	39	amod:att	_	_
+39	jogszabály	jogszabály	NOUN	_	Case=Nom|Number=Sing	41	nsubj	_	_
+40	nem	nem	ADV	_	PronType=Neg	41	advmod	_	_
+41	rendelkezik	rendelkezik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	acl	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = dev-331
+# text = Vagyis nulla.
+1	Vagyis	vagyis	CCONJ	_	_	2	cc	_	_
+2	nulla	nulla	NUM	_	Case=Nom|Number=Sing|NumType=Card	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = dev-19
+# text = A második közleményben azt közli az LRI, hogy mindent megtesz az utasforgalom és légi közlekedés zavartalan működéséért.
+1	A	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	második	második	ADJ	_	Case=Nom|Number=Sing|NumType=Ord	3	amod:att	_	_
+3	közleményben	közlemény	NOUN	_	Case=Ine|Number=Sing	5	obl	_	_
+4	azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	5	obj	_	_
+5	közli	közöl	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	az	az	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	LRI	LRI	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	hogy	hogy	SCONJ	_	_	11	mark	_	_
+10	mindent	minden	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Tot	11	obj	_	_
+11	megtesz	meg+tesz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp:obj	_	_
+12	az	az	DET	_	Definite=Def|PronType=Art	13	det	_	_
+13	utasforgalom	utasforgalom	NOUN	_	Case=Nom|Number=Sing	18	nmod:att	_	_
+14	és	és	CCONJ	_	_	16	cc	_	_
+15	légi	légi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	16	amod:att	_	_
+16	közlekedés	közlekedés	NOUN	_	Case=Nom|Number=Sing	13	conj	_	_
+17	zavartalan	zavartalan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	18	amod:att	_	_
+18	működéséért	működés	NOUN	_	Case=Cau|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = dev-275
+# text = A következő félévre vonatkozó előrejelzéseik jóval optimistábbak.
+1	A	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	következő	következő	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	3	amod:att	_	_
+3	félévre	félév	NOUN	_	Case=Sbl|Number=Sing	4	obl	_	_
+4	vonatkozó	vonatkozó	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	5	amod:att	_	_
+5	előrejelzéseik	előrejelzés	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=3	7	nsubj	_	_
+6	jóval	jóval	ADV	_	_	7	advmod:mode	_	_
+7	optimistábbak	optimista	ADJ	_	Case=Nom|Degree=Cmp|Number=Plur	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = dev-175
+# text = Még nem ismeretes, hogy a Fenyves utcai iskolát tagozatként csatolnák -e a Fillér utcaihoz, vagy mindkét intézményt megszüntetve új vezetőségi pályázatot írnának ki.
+1	Még	még	ADV	_	_	3	advmod:tlocy	_	_
+2	nem	nem	ADV	_	PronType=Neg	3	advmod	_	_
+3	ismeretes	ismeretes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	11	punct	_	_
+5	hogy	hogy	SCONJ	_	_	11	mark	_	_
+6	a	a	DET	_	Definite=Def|PronType=Art	9	det	_	_
+7	Fenyves	Fenyves	PROPN	_	Case=Nom|Number=Sing	9	amod:att	_	_
+8	utcai	utcai	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	flat:name	_	_
+9	iskolát	iskola	NOUN	_	Case=Acc|Number=Sing	11	obj	_	_
+10	tagozatként	tagozat	NOUN	_	Case=Abs|Number=Sing	11	obl	_	_
+11	csatolnák	csatol	VERB	_	Definite=Def|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	_	_
+12	-e	-e	ADV	_	PronType=Int	11	advmod:que	_	_
+13	a	a	DET	_	Definite=Def|PronType=Art	14	det	_	_
+14	Fillér	Fillér	PROPN	_	Case=Nom|Number=Sing	11	obl	_	_
+15	utcaihoz	utcai	ADJ	_	Case=All|Degree=Pos|Number=Sing	14	flat:name	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	24	punct	_	_
+17	vagy	vagy	CCONJ	_	_	24	cc	_	_
+18	mindkét	mindkét	DET	_	Definite=Def|PronType=Ind	19	det	_	_
+19	intézményt	intézmény	NOUN	_	Case=Acc|Number=Sing	20	obj	_	_
+20	megszüntetve	megszüntetve	ADV	_	VerbForm=Conv	24	advmod:mode	_	_
+21	új	új	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	23	amod:att	_	_
+22	vezetőségi	vezetőségi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	23	amod:att	_	_
+23	pályázatot	pályázat	NOUN	_	Case=Acc|Number=Sing	24	obj	_	_
+24	írnának	ír	VERB	_	Definite=Ind|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	_
+25	ki	ki	ADV	_	Degree=Pos	24	compound:preverb	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = dev-42
+# text = A panaszosok szerint korábbi lopásokra hivatkozva a tulajdonosok az üzem egész területét, a folyosókat és az irodákat is bekamerázták, sőt még videofelvételek is készülnek az alkalmazottakról.
+1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	panaszosok	panaszos	NOUN	_	Case=Nom|Number=Plur	20	obl	_	_
+3	szerint	szerint	ADP	_	_	2	case	_	_
+4	korábbi	korábbi	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	5	amod:att	_	_
+5	lopásokra	lopás	NOUN	_	Case=Sbl|Number=Plur	6	obl	_	_
+6	hivatkozva	hivatkozva	ADV	_	VerbForm=Conv	20	advmod:mode	_	_
+7	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
+8	tulajdonosok	tulajdonos	NOUN	_	Case=Nom|Number=Plur	20	nsubj	_	_
+9	az	az	DET	_	Definite=Def|PronType=Art	10	det	_	_
+10	üzem	üzem	NOUN	_	Case=Nom|Number=Sing	12	nmod:att	_	_
+11	egész	egész	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	12	amod:att	_	_
+12	területét	terület	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	20	obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	a	a	DET	_	Definite=Def|PronType=Art	15	det	_	_
+15	folyosókat	folyosó	NOUN	_	Case=Acc|Number=Plur	12	conj	_	_
+16	és	és	CCONJ	_	_	18	cc	_	_
+17	az	az	DET	_	Definite=Def|PronType=Art	18	det	_	_
+18	irodákat	iroda	NOUN	_	Case=Acc|Number=Plur	12	conj	_	_
+19	is	is	CCONJ	_	_	12	cc	_	ToDo=cc-after-conj
+20	bekamerázták	be+kameráz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	26	punct	_	_
+22	sőt	sőt	CCONJ	_	_	26	cc	_	_
+23	még	még	ADV	_	_	26	advmod:tlocy	_	_
+24	videofelvételek	videofelvétel	NOUN	_	Case=Nom|Number=Plur	26	nsubj	_	_
+25	is	is	CCONJ	_	_	24	cc	_	ToDo=cc-without-conj
+26	készülnek	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	_
+27	az	az	DET	_	Definite=Def|PronType=Art	28	det	_	_
+28	alkalmazottakról	alkalmazott	NOUN	_	Case=Del|Number=Plur	26	obl	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	20	punct	_	_
+
+# sent_id = dev-223
+# text = Azt is elmondta, a német RTL Nachtjournal című késő esti magazinját tekintik példaképnek, és műsorukkal a döntéshozó, felnőtt korú, aktív, jól kereső népességet célozzák meg.
+1	Azt	az	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	obj	_	_
+2	is	is	CCONJ	_	_	1	cc	_	ToDo=cc-without-conj
+3	elmondta	el+mond	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	13	punct	_	_
+5	a	a	DET	_	Definite=Def|PronType=Art	7	det	_	_
+6	német	német	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod:att	_	_
+7	RTL	RTL	PROPN	_	Case=Nom|Number=Sing	12	nmod:att	_	_
+8	Nachtjournal	Nachtjournal	PROPN	_	Case=Nom|Number=Sing	9	nmod:att	_	_
+9	című	című	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	12	amod:att	_	_
+10	késő	késő	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	amod:att	_	_
+11	esti	esti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	12	amod:att	_	_
+12	magazinját	magazin	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obj	_	_
+13	tekintik	tekint	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp:obj	_	_
+14	példaképnek	példakép	NOUN	_	Case=Dat|Number=Sing	13	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	29	punct	_	_
+16	és	és	CCONJ	_	_	29	cc	_	_
+17	műsorukkal	műsor	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Plur|Person[psor]=3	29	obl	_	_
+18	a	a	DET	_	Definite=Def|PronType=Art	28	det	_	_
+19	döntéshozó	döntéshozó	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	28	amod:att	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	felnőtt	felnőtt	NOUN	_	Case=Nom|Number=Sing	22	amod:att	_	_
+22	korú	korú	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	aktív	aktív	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	conj	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	jól	jól	ADV	_	_	27	advmod:mode	_	_
+27	kereső	kereső	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPres	19	conj	_	_
+28	népességet	népesség	NOUN	_	Case=Acc|Number=Sing	29	obj	_	_
+29	célozzák	céloz	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+30	meg	meg	PART	_	_	29	compound:preverb	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	3	punct	_	_
+
